@@ -1,393 +1,786 @@
-id,ime,naslov,kraj,cena_obroka,doplacilo
-1011,Pizzeria Vila Raineri,"Tomažičeva ulica 10, 6310 Izola/Isola",Izola/Isola,5.9,3.21
-1013,Dijaški in študentski dom Koper,"Cankarjeva 5, 6000 Koper/Capodistria",Koper/Capodistria,5.03,2.34
-1023,Restavracija Interspar Koper,"Ankaranska cesta 3A, 6000 Koper/Capodistria",Koper/Capodistria,5.62,2.93
-1025,Restavracija Interspar Nova Gorica,"Cesta 25. junija 1a, 5000 Nova Gorica",Nova Gorica,5.62,2.93
-1031,Pizzerija Atrij,"Čevljarska 8, 6000 Koper/Capodistria",Koper/Capodistria,5.93,3.24
-1090,Dijaški dom Lizike Jančar,"Titova cesta 24a, 2000 Maribor",Maribor,4.7,2.01
-1091,Dijaški dom Maribor,"Gosposvetska cesta 89, 2000 Maribor",Maribor,5.63,2.94
-1100,Restavracija Tuš Celje (Planet Tuš),"Mariborska cesta 128, 3000 Celje",Celje,5.62,2.93
-1101,Tuš restavracija Maribor Studenci (Planet Tuš),"Na Poljanah 18, 2000 Maribor",Maribor,5.62,2.93
-1102,Restavracija Tuš Kranj,"Cesta Jake Platiše 18, 4000 Kranj",Kranj,5.62,2.93
-1103,Pizzeria in špageteria Al Capone,"Pobreška cesta 18, 2000 Maribor",Maribor,5.93,3.24
-1110,Kratochwill,"Nemčavci 1d, 9000 Murska Sobota",Murska Sobota,6.0,3.31
-1123,Gostilna Zlati lev,"Vodnikov trg 4, 2000 Maribor",Maribor,5.03,2.34
-1124,Gostilna Zlati lev - DOSTAVA,"Vodnikov trg 4, 2000 Maribor",Maribor,5.43,2.74
-1130,Restavracija Kitajski vrt,"Dravska cesta 7 , 2250 Ptuj",Ptuj,5.63,2.94
-1145,Hotel Slovenj Gradec,"Glavni trg 43, 2380 Slovenj Gradec",Slovenj Gradec,4.5,1.81
-1161,Cantante cafe Tabor,"Ulica Pariške komune 37, 2000 Maribor",Maribor,6.2,3.51
-1164,Kitajski dvor - DOSTAVA,"Teharska cesta 35, 3000 Celje",Celje,5.93,3.24
-1165,Kitajska restavracija Zvezda,"Loška ulica 10, 2000 Maribor",Maribor,5.09,2.4
-1176,Pizzerija Velun,"Šalek 24 a, 3320 Velenje",Velenje,6.53,3.84
-1179,McDonald&#180;s restavracija Velenje,"Kidričeva 2b, 3320 Velenje",Velenje,4.7,2.01
-1182,McDonald&#180;s restavracija - Swaty,"Tržaška 6, 2000 Maribor",Maribor,4.7,2.01
-1184,McDonald&#180;s restavracija Ptujska,"Ptujska 106, 2000 Maribor",Maribor,4.7,2.01
-1185,McDonald&#180;s restavracija Europark,"Pobreška 18, 2000 Maribor",Maribor,4.7,2.01
-1188,Gurmanski hram,"Zagrebška cesta 92, 2000 Maribor",Maribor,4.83,2.14
-1189,Gurmanski hram - DOSTAVA,"Zagrebška cesta 92, 2000 Maribor",Maribor,4.83,2.14
-1190,Kavarna Stil Burger,"Koroška cesta 59, 2000 Maribor",Maribor,4.0,1.31
-1194,Restavracija Interspar Maribor Europark,"Pobreška 18, 2000 Maribor",Maribor,5.62,2.93
-1195,Restavracija Interspar Celje,"Mariborska 100, 3000 Celje",Celje,5.62,2.93
-1197,Restavracija Interspar Maribor Qlandia,"Cesta Proletarskih brigad 100, 2000 Maribor",Maribor,5.62,2.93
-1198,Restavracija Interspar Kranj,"Cesta 1.maja 77, 4000 Kranj",Kranj,5.62,2.93
-1199,Restavracija Interspar Murska Sobota,"Nemčavci 1d, 9000 Murska Sobota",Murska Sobota,5.62,2.93
-1214,Mlečna restavracija,"Maistrov trg 13, 4000 Kranj",Kranj,4.9,2.21
-1224,Okrepčevalnica Bober (Partizanska),"Partizanska 50, 2000 Maribor",Maribor,4.63,1.94
-1232,Okrepčevalnica - bistro Tanja,"Cankarjeva ulica 58, 9000 Murska Sobota",Murska Sobota,5.0,2.31
-1234,Okrepčevalnica Minutka,"Celjska cesta 48 b, 2380 Slovenj Gradec",Slovenj Gradec,5.0,2.31
-1237,Okrepčevalnica Pivnica Alf,"Koroška cesta 5, 2000 Maribor",Maribor,5.43,2.74
-1238,Okrepčevalnica Pivnica Alf - DOSTAVA,"Koroška cesta 5, 2000 Maribor",Maribor,5.93,3.24
-1262,UFO,"Svetčeva ulica 14, 1000 Ljubljana",Ljubljana,5.61,2.92
-1265,Prometna šola Maribor,"Preradovičeva ulica 33, 2000 Maribor",Maribor,5.13,2.44
-1266,Pizzeria Pronto,"Koroška cesta 60, 2000 Maribor",Maribor,4.83,2.14
-1298,Restavracija Splošne bolnišnice Novo mesto,"Šmihelska cesta 1, 8000 Novo mesto",Novo mesto,4.5,1.81
-1305,Pizzeria in špagetteria Cubus,"Podbevškova ulica 11, 8000 Novo mesto",Novo mesto,5.53,2.84
-1314,Dijaški dom Vič,"Gerbičeva 51/a, 1000 Ljubljana",Ljubljana,5.03,2.34
-1321,Restavracija Rdeče jabolko,"Tržaška 116, 1000 Ljubljana",Ljubljana,5.93,3.24
-1334,Pizzeria Totalka,"Kandijska cesta 60, 8000 Novo mesto",Novo mesto,6.03,3.34
-1335,Pizzeria Šestinka,"Miklošičeva cesta 22, 1000 Ljubljana",Ljubljana,2.69,0.0
-1336,Pizzeria Tunnel,"Karlovška cesta 5, 1000 Ljubljana",Ljubljana,6.53,3.84
-1339,Vegetarijanska restavracija Radha Govinda,"Žibretova 23, 1000 Ljubljana",Ljubljana,6.13,3.44
-1341,McDonald&#39;s restavracija - Celovška,"Celovška cesta 170, 1000 Ljubljana",Ljubljana,4.7,2.01
-1342,McDonald&#39;s McDrive Domžale,"Breznikova 15, 1230 Domžale",Domžale,4.7,2.01
-1346,Kitajska restavracija Novi Šanghai,"Kapitelska 5, 1000 Ljubljana",Ljubljana,5.93,3.24
-1351,Hostel Situla,"Dilančeva 1, 8000 Novo mesto",Novo mesto,6.03,3.34
-1360,Restavracija Plečnikov hram,"Trg francoske revolucije 2, 1000 Ljubljana",Ljubljana,6.23,3.54
-1366,Piazza del Papa,"Jurčkova cesta 223, 1000 Ljubljana",Ljubljana,6.2,3.51
-1367,Restavracija Skriti kot,"Ajdovščina 4, 1000 Ljubljana",Ljubljana,6.53,3.84
-1369,Restavracija Interspar Citypark,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,5.62,2.93
-1370,Restavracija Interspar Vič,"Jamova 105, 1000 Ljubljana",Ljubljana,5.62,2.93
-1375,Gostilna Šeligo,"Goliev trg 8, 8210 Trebnje",Trebnje,6.13,3.44
-1377,Restavracija McDonald&#39;s Čopova,"Čopova 14, 1000 Ljubljana",Ljubljana,4.7,2.01
-1378,Restavracija McDonald&#39;s Žito,"Šmartinska 154, 1000 Ljubljana",Ljubljana,4.7,2.01
-1379,Restavracija McDonald&#39;s -Železniška,"Trg osvobodilne fronte 6, 1000 Ljubljana",Ljubljana,4.7,2.01
-1380,Restavracija McDonald&#39;s Kolosej,"Šmartinska 152, 1000 Ljubljana",Ljubljana,4.7,2.01
-1381,Restavracija McDonald&#39;s Novo mesto,"Ljubljanska 24, 8000 Novo mesto",Novo mesto,4.7,2.01
-1382,Restavracija Mozart,"Stegne 7, 1000 Ljubljana",Ljubljana,6.0,3.31
-1386,Joe Pena&#39;s Cantina y Bar,"Cankarjeva cesta 6, 1000 Ljubljana",Ljubljana,7.0,4.31
-1402,Pizzeria Gregorino,"Vojkova 34, 1000 Ljubljana",Ljubljana,6.63,3.94
-1403,Restavracija Kavarna pizzeria Hombre,"Gerbičeva ulica 61, 1000 Ljubljana",Ljubljana,6.53,3.84
-1407,Mehiška restavracija Imperio mexicano,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,6.5,3.81
-1413,Pizzerija in okrepčevalnica KONDOR,"Cesta v Mestni log 55, 1000 Ljubljana",Ljubljana,6.13,3.44
-1415,Kitajska restavracija NANKING,"Mačkovec 6, 8000 Novo mesto",Novo mesto,5.63,2.94
-1421,Klopčič - Dom Litostroj,"Litostrojska cesta 55, 1000 Ljubljana",Ljubljana,5.4,2.71
-1422,Klopčič,"Litostrojska cesta 57, 1000 Ljubljana",Ljubljana,5.4,2.71
-1423,Pizzeria Laterna,"Tržaška 79a, 1000 Ljubljana",Ljubljana,6.29,3.6
-1424,PE Marjetica,"Tobačna ulica 5, 1000 Ljubljana",Ljubljana,4.9,2.21
-1429,Kurji tat,"Tbilisijska 59, 1000 Ljubljana",Ljubljana,5.9,3.21
-1432,Ejga - restavracija - kavarna - pub - catering,"Cesta maršala Tita 27, 4270 Jesenice",Jesenice,7.0,4.31
-1441,Pizzeria FoculuS,"Gregorčičeva ulica 3, 1000 Ljubljana",Ljubljana,6.93,4.24
-1465,Bistro Šumi,"Kardeljeva ploščad 5, 1000 Ljubljana",Ljubljana,6.63,3.94
-1466,Pizzerija Piramida,"Vojkova 71, 1000 Ljubljana",Ljubljana,6.63,3.94
-1471,Oštarija Rudolfswerth,"Kandijska cesta 35, 8000 Novo mesto",Novo mesto,5.0,2.31
-1474,Pravna fakulteta,"Poljanski nasip 2, 1000 Ljubljana",Ljubljana,5.6,2.91
-1477,Vegetarijanska okrepčevalnica HOLYFOOD,"Igriška 5, 1000 Ljubljana",Ljubljana,2.69,0.0
-1478,ABI FALAFEL,"Trubarjeva cesta 40, 1000 Ljubljana",Ljubljana,6.93,4.24
-1485,"DA BU DA, Azijska restavracija","Šubičeva 1a, 1000 Ljubljana",Ljubljana,7.0,4.31
-1500,Dijaški dom Ivana Cankarja,"Poljanska cesta 26, 1000 Ljubljana",Ljubljana,5.13,2.44
-1501,Dijaški in študentski dom Novo mesto,"Šegova ulica 115, 8000 Novo mesto",Novo mesto,5.13,2.44
-1502,Dijaški dom Poljane,"Potočnikova ulica 3, 1000 Ljubljana",Ljubljana,4.83,2.14
-1530,Restavracija 123 Delo,"Dunajska 5, 1000 Ljubljana",Ljubljana,5.69,3.0
-1532,Restavracija 123 Pedagoška,"Kardeljeva ploščad 16, 1000 Ljubljana",Ljubljana,5.05,2.36
-1536,Restavracija McDonald&#39;s Rudnik,"Premrlova ulica 12, 1000 Ljubljana",Ljubljana,4.7,2.01
-1541,Okrepčevalnica Kemijski inštitut,"Hajdrihova 19, 1000 Ljubljana",Ljubljana,5.8,3.11
-1564,Restavracija  &quot;Baščaršija&quot;,"Poštna ulica 8, 2000 Maribor",Maribor,5.8,3.11
-1576,Vozi Miško (MC Šiška),"Cesta Ljubljanske brigade 33, 1000 Ljubljana",Ljubljana,7.0,4.31
-1578,Dobrote vzhoda,"Celovška cesta 69 a, 1000 Ljubljana",Ljubljana,6.23,3.54
-1583,Restavracija 123 Pristan,"Vojkovo nabrežje 32, 6000 Koper/Capodistria",Koper/Capodistria,5.69,3.0
-1597,Running sushi &amp; wok,"Jurčkova cesta 223, 1000 Ljubljana",Ljubljana,6.5,3.81
-1610,Kitajski dvor,"Dunajska cesta 29, 1000 Ljubljana",Ljubljana,6.13,3.44
-1615,Okrepčevalnica Badovinac,"Kardeljeva ploščad 5, 1000 Ljubljana",Ljubljana,3.89,1.2
-1626,Restavracija DK,"Titov trg 3, 3320 Velenje",Velenje,5.1,2.41
-1627,Hotel Paka,"Rudarska cesta 1, 3320 Velenje",Velenje,6.5,3.81
-1628,Maestro (City center Celje),"Mariborska 100, 3000 Celje",Celje,6.0,3.31
-1639,Kanape,"Gosposvetska cesta 15, 2000 Maribor",Maribor,3.13,0.44
-1645,Bohor,"Kidričeva ulica 23, 3250 Rogaška Slatina",Rogaška Slatina,6.63,3.94
-1668,Eat smart,"Strossmayerjeva 13, 2000 Maribor",Maribor,3.13,0.44
-1673,Cantante cafe Tabor - DOSTAVA,"Ulica Pariške komune 37, 2000 Maribor",Maribor,6.7,4.01
-1683,Okrepčevalnica - pizzerija Maks,"Dunajska cesta 111, 1000 Ljubljana",Ljubljana,5.9,3.21
-1711,Pizzerija Etna - italijanska kuhinja,"Ulica Marije Hvaličeve 6, 1000 Ljubljana",Ljubljana,7.0,4.31
-1716,Pizzerija Dimnik,"Obrtniška cesta 1, 1420 Trbovlje",Trbovlje,6.0,3.31
-1717,Pizzerija Dimnik - dostava,"Obrtniška cesta 1, 1420 Trbovlje",Trbovlje,6.5,3.81
-1718,Mehiška restavracija Imperio - dostava,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,7.0,4.31
-1768,Restavracija klub Cankarjevega doma,"Prešernova cesta 10, 1000 Ljubljana",Ljubljana,6.6,3.91
-1772,AMBIENT,"Topniška 29a, 1000 Ljubljana",Ljubljana,5.33,2.64
-1778,Okrepčevalnica AZZURRO,"Nove Fužine 43, 1000 Ljubljana",Ljubljana,5.63,2.94
-1791,ŽITO Ljubljana Vodnik,"Vodnikov trg 5, 1000 Ljubljana",Ljubljana,2.69,0.0
-1794,Picestavracija Boccaccio,"Celovška cesta 249, 1000 Ljubljana",Ljubljana,7.0,4.31
-1798,Pivnica Adam Ravbar,"Perkova 17, 1230 Domžale",Domžale,6.4,3.71
-1804,Halo Rdeče jabolko - dostava,"Tržaška 116, 1000 Ljubljana",Ljubljana,6.93,4.24
-1817,Bar ENKA,"Baragova 16, 1000 Ljubljana",Ljubljana,4.13,1.44
-1823,Restavracija Burger King,"Šmartinska cesta 152g, 1000 Ljubljana",Ljubljana,4.0,1.31
-1827,Restavracija Fany &amp; Mary,"Petkovškovo nabrežje 19, 1000 Ljubljana",Ljubljana,7.0,4.31
-1834,Gostilnica in pizzerija Kratochwill,"Jurčkova 225, 1000 Ljubljana",Ljubljana,6.63,3.94
-1835,Gostilnica in pizzerija Kratochwill,"Šmartinska 152, 1000 Ljubljana",Ljubljana,6.63,3.94
-1838,Kitajsko mesto,"Slamnikarjeva 1, 1230 Domžale",Domžale,5.5,2.81
-1847,Gostišče na trgu - Hiša kulinarike,"Glavni trg 30, 8000 Novo mesto",Novo mesto,5.4,2.71
-1849,Gostišče KUM,"Prešernova cesta 1, 1410 Zagorje ob Savi",Zagorje ob Savi,5.8,3.11
-1860,Gostilna Racman,"Brezina 19/b, 8250 Brežice",Brežice,5.6,2.91
-1861,Pizzerija Ašič,"Pečarjeva 1, 1410 Zagorje ob Savi",Zagorje ob Savi,6.13,3.44
-1865,Antaro,"Leskoškova 9e, 1000 Ljubljana",Ljubljana,6.0,3.31
-1910,MC Patriot,"Žička cesta 4a, 3210 Slovenske Konjice",Slovenske Konjice,3.63,0.94
-1911,Kitajski dvor,"Teharska cesta 35, 3000 Celje",Celje,5.93,3.24
-1925,Okrepčevalnica TIP TOP,"Partizanska cesta 50, 2000 Maribor",Maribor,3.63,0.94
-1983,Pek Matjaž Glavni trg,"Glavni trg 25, 2380 Slovenj Gradec",Slovenj Gradec,2.69,0.0
-1984,Pek Matjaž Tomšičeva,"Tomšičeva cesta 15, 3320 Velenje",Velenje,2.69,0.0
-1988,Gostilna Lečnik,"Trg Svobode 4, 2390 Ravne na Koroškem",Ravne na Koroškem,6.0,3.31
-1994,Pizzerija Gorenc,"Koroška cesta 59, 4000 Kranj",Kranj,5.4,2.71
-1999,Kavarna in restavracija Pecivo,"Delpinova 16, 5000 Nova Gorica",Nova Gorica,6.5,3.81
-2011,Pizzerija Ašič - dostava,"Pečarjeva ulica 1, 1410 Zagorje ob Savi",Zagorje ob Savi,6.63,3.94
-2023,"Biotehniška fakulteta, Menza BF","Večna pot 111, 1000 Ljubljana",Ljubljana,5.6,2.91
-2040,Restavracija Kitajska palača,"Focheva ulica 41, 2000 Maribor",Maribor,5.33,2.64
-2049,Okrepčevalnica Sarajevo,"Gosposvetska cesta 43c, 2000 Maribor",Maribor,5.8,3.11
-2085,Restavracija Mango,"Turnerjeva ulica 17, 2000 Maribor",Maribor,6.29,3.6
-2092,Šeherezada,"Trubarjeva cesta 31, 1000 Ljubljana",Ljubljana,4.0,1.31
-2097,Restavracija Fresco,"Slovenska cesta 51, 1000 Ljubljana",Ljubljana,6.63,3.94
-2098,Fast food Fresco in Slast,"Slovenska cesta 51, 1000 Ljubljana",Ljubljana,4.13,1.44
-2102,Biotehniški izobraževalni center Ljubljana,"Ižanska cesta 10, 1000 Ljubljana",Ljubljana,5.3,2.61
-2103,Biotehniški izobraževalni center Ljubljana,"Cesta v Mestni log 47, 1000 Ljubljana",Ljubljana,5.3,2.61
-2111,Dijaški dom Tabor,"Vidovdanska 7, 1000 Ljubljana",Ljubljana,5.09,2.4
-2115,Stara krška pizzerija,"Cesta krških žrtev 59, 8270 Krško",Krško,6.0,3.31
-2116,Stara krška pizzerija - dostava,"Cesta krških žrtev 59, 8270 Krško",Krško,6.2,3.51
-2117,Kitajski dvor - dostava,"Dunajska cesta 29, 1000 Ljubljana",Ljubljana,6.63,3.94
-2131,Restavracija sarajevskih jedi Valter Ljubljana,"Šmartinska cesta 3, 1000 Ljubljana",Ljubljana,4.93,2.24
-2133,Barbado,"Dunajska cesta 106, 1000 Ljubljana",Ljubljana,6.39,3.7
-2145,Slaščičarna in kavarna Leonard,"Trg mladinskih delovnih brigad 12, 1000 Ljubljana",Ljubljana,2.69,0.0
-2147,Azijska restavracija Han,"Kongresni trg 3, 1000 Ljubljana",Ljubljana,6.3,3.61
-2152,Maharaja indijska restavracija,"Vodnikova 35, 1000 Ljubljana",Ljubljana,7.0,4.31
-2161,Gostilna in picerija Pavon,"Njegoševa 6 K, 1000 Ljubljana",Ljubljana,7.0,4.31
-2164,Restavracija Allegria,"Nazorjeva ulica 8, 1000 Ljubljana",Ljubljana,7.0,4.31
-2165,Pizzeria Osmica,"Nazorjeva ulica 8, 1000 Ljubljana",Ljubljana,6.03,3.34
-2180,"Restavracija Prestige catering, GZS","Dimičeva ulica 13, 1000 Ljubljana",Ljubljana,5.8,3.11
-2185,Pivovarna in pivnica Kratochwill,"Kolodvorska ulica 14, 1000 Ljubljana",Ljubljana,6.63,3.94
-2187,Restavracija 123 DSU,"Litostrojska 54, 1000 Ljubljana",Ljubljana,5.69,3.0
-2195,Čevabdžinica Sarajevo 84,"Gramšijev trg 8, 6000 Koper/Capodistria",Koper/Capodistria,6.5,3.81
-2203,Labirint,"Čevljarska 9, 6000 Koper/Capodistria",Koper/Capodistria,5.73,3.04
-2204,Primavera Izola,"Prešernova cesta 55, 6310 Izola/Isola",Izola/Isola,7.0,4.31
-2205,Primavera Izola-DOSTAVA,"Prešernova cesta 55 , 6310 Izola/Isola",Izola/Isola,7.0,4.31
-2213,Študentski dom Ljubljana - Restavracija,"Svetčeva ulica 9, 1000 Ljubljana",Ljubljana,5.69,3.0
-2229,Restavracija Piano,"Koroška cesta 160, 2000 Maribor",Maribor,5.89,3.2
-2234,Eat smart FERI,"Smetanova 17, 2000 Maribor",Maribor,5.33,2.64
-2243,CITYBURGER,"Ankaranska 7, 6000 Koper/Capodistria",Koper/Capodistria,6.53,3.84
-2247,"AROMA, restavracija in pizzerija","Ribji trg 2, 1000 Ljubljana",Ljubljana,7.0,4.31
-2248,Picerija Barjan,"Cesta v Mestni log 55, 1000 Ljubljana",Ljubljana,6.33,3.64
-2249,News Cafe,"Obala 4F, 6320 Portorož/Portorose",Portorož/Portorose,6.13,3.44
-2252,Restavracija sarajevskih jedi Valter - Škofja Loka,"Kidričeva cesta 8c, 4220 Škofja Loka",Škofja Loka,4.93,2.24
-2253,McDonald&#39;s restavracija Koper,"Ankaranska 4, 6000 Koper/Capodistria",Koper/Capodistria,4.7,2.01
-2254,Slaščičarna in picerija Ajdovščina - HALO ERIK-DOSTAVA,"Goriška cesta 11, 5270 Ajdovščina",Ajdovščina,6.0,3.31
-2256,Kitajska restavracija Beli labod,"Masarykova 17, 1000 Ljubljana",Ljubljana,6.13,3.44
-2263,Srednja šola Izola - Scuola media Isola,"Prekomorskih brigad 7, 6310 Izola/Isola",Izola/Isola,4.63,1.94
-2264,Kitajska restavracija Cesarska hiša,"Ankaranska cesta 5B, 6000 Koper/Capodistria",Koper/Capodistria,6.13,3.44
-2265,Kitajska restavracja Cesarska hiša-DOSTAVA,"Ankaranska cesta 5B, 6000 Koper/Capodistria",Koper/Capodistria,6.93,4.24
-2270,Pizzeria in špageterija AL CAPONE,"Šmartinska cesta 152, 1000 Ljubljana",Ljubljana,5.9,3.21
-2271,Oštarija pri Oljki,"Šmartinska cesta 152, 1000 Ljubljana",Ljubljana,6.0,3.31
-2275,Zlati krožnik,"Ljubljanska cesta 89, 1230 Domžale",Domžale,6.13,3.44
-2278,Restavracija Kompliment,"Kidričeva cesta 75, 4220 Škofja Loka",Škofja Loka,5.63,2.94
-2284,Pizzeria Fontana,"Dalmatinova ulica 2, 8270 Krško",Krško,7.0,4.31
-2286,"Restavracija,picerija, špageterija ADRENALINA","Pesje 30, 8270 Krško",Krško,6.33,3.64
-2302,Okrepčevalnica Šumi,"Kardeljeva ploščad 5, 1000 Ljubljana",Ljubljana,2.69,0.0
-2308,Pizzeria Briksen,"Ljubljanska cesta 5, 4260 Bled",Bled,7.0,4.31
-2311,Okrepčevalnica Ribca,"Adamič Lundrovo nabrežje 1, 1000 Ljubljana",Ljubljana,6.0,3.31
-2325,Q Slovenska,"Slovenska 9, 2000 Maribor",Maribor,6.9,4.21
-2326,Restavracija Sarajevskih jedi Valter Kranj,"Cesta 1.maja 1a, 4000 Kranj",Kranj,4.93,2.24
-2327,Wok mix okrepčevalnica,"Vetrinjska ulica 15, 2000 Maribor",Maribor,5.33,2.64
-2329,Kavarna in slaščičarna Rendez - Vous,"Oprešnikova 28, 4000 Kranj",Kranj,4.9,2.21
-2330,Kavarna in slaščičarna Carniola,"Gregorčičeva 2, 4000 Kranj",Kranj,4.9,2.21
-2331,Loving Hut,"Gosposvetska cesta 43a, 2000 Maribor",Maribor,5.93,3.24
-2334,Okrepčevalnica Villa Monde,"Spuhlja 32, 2250 Ptuj",Ptuj,5.3,2.61
-2336,Takos dos,"Pobreška cesta 18, 2000 Maribor",Maribor,7.0,4.31
-2337,Takos,"Mesarski prehod 3, 2000 Maribor",Maribor,6.2,3.51
-2343,Restavracija in pivnica Zvezda,"Trg zmage 8, 9000 Murska Sobota",Murska Sobota,5.3,2.61
-2346,Gostilna pod Škalcami - DOSTAVA,"Oplotniška cesta 5, 3210 Slovenske Konjice",Slovenske Konjice,3.63,0.94
-2347,Kavarna in sendvičarna Feri,"Smetanova ulica 17, 2000 Maribor",Maribor,3.13,0.44
-2358,HOT HORSE - BTC,"Šmartinska cesta 152, 1000 Ljubljana",Ljubljana,6.63,3.94
-2359,HOT HORSE - Tivoli,"Celovška cesta 25, 1000 Ljubljana",Ljubljana,6.63,3.94
-2360,Okrepčevalnica MM PANDA,"Koroška cesta 9, 2000 Maribor",Maribor,4.63,1.94
-2366,Restavracija 123 MC Nova Gorica,"Industrijska cesta 6, 5000 Nova Gorica",Nova Gorica,5.69,3.0
-2367,Restavracija 123 MC Ljubjana,"Cesta Ljubljanske brigade 33, 1000 Ljubljana",Ljubljana,5.69,3.0
-2375,Pizzeria Parma,"Trg republike 2, 1000 Ljubljana",Ljubljana,6.43,3.74
-2389,Subway,"Dunajska cesta 115a, 1000 Ljubljana",Ljubljana,4.13,1.44
-2391,Okrepčevalnica &quot;Riviera&quot;,"Trubarjeva cesta 36, 1000 Ljubljana",Ljubljana,5.23,2.54
-2396,Kavarna NUK,"Turjaška 1, 1000 Ljubljana",Ljubljana,5.43,2.74
-2401,Loving Hut Ljubjana Center,"Trg OF 14, 1000 Ljubljana",Ljubljana,6.13,3.44
-2405,Restavracija City,"Trg Matije Gubca 3, 8270 Krško",Krško,6.4,3.71
-2430,Hit wok,"Čopova 4, 1000 Ljubljana",Ljubljana,5.2,2.51
-2432,Okrepčevalnica Novak,"Koštialova 1, 8000 Novo mesto",Novo mesto,6.0,3.31
-2446,Kitajska restavracija Šang Hai,"Delavska ulica 11, 4270 Jesenice",Jesenice,5.9,3.21
-2471,Bowling center Strike,"Špelina ulica 17a, 2000 Maribor",Maribor,5.5,2.81
-2475,Restavracija Kolodvorska,"Cesta talcev 37a, 3320 Velenje",Velenje,6.0,3.31
-2478,Mehiška restavracija Cantina Maria,"Ulica Jake Platiše 17, 4000 Kranj",Kranj,5.43,2.74
-2479,Pizzeria Da noi fast food,"Ulica Eve Lovše 1, 2000 Maribor",Maribor,3.23,0.54
-2480,Oštarija Pizzeria Da Noi,"Ulica Eve Lovše 1, 2000 Maribor",Maribor,5.8,3.11
-2487,Hotel Opara,"Goliev trg 13, 8210 Trebnje",Trebnje,6.13,3.44
-2488,Balkan Express,"Šmartinska 152 g, 1000 Ljubljana",Ljubljana,6.5,3.81
-2498,Trattoria Padrino,"Žitna ulica 12, 2000 Maribor",Maribor,6.13,3.44
-2501,Restavracija Ancora,"Jurčičeva ulica 7, 2000 Maribor",Maribor,6.33,3.64
-2504,Picerija Verona,"Opekarniška cesta 9, 3000 Celje",Celje,5.63,2.94
-2505,Picerija Verona - DOSTAVA,"Opekarniška cesta 9, 3000 Celje",Celje,6.63,3.94
-2507,Picerija Bonitas,"Celjska cesta 7, 3310 Žalec",Žalec,5.9,3.21
-2513,Gostilnica &amp; picerija Pobreški hram,"Osojnikova 20a, 2000 Maribor",Maribor,6.93,4.24
-2521,"Fakulteta za elektrotehniko, Menza FE","Tržaška cesta 25, 1000 Ljubljana",Ljubljana,5.6,2.91
-2523,DIFOOD-eat good,"Gortanova 21, 1000 Ljubljana",Ljubljana,4.43,1.74
-2525,HALO KATRA,"Njegoševa 6K, 1000 Ljubljana",Ljubljana,7.0,4.31
-2527,Restavracija Brejk,"Dunajska cesta 22, 1000 Ljubljana",Ljubljana,6.53,3.84
-2528,Restavracija 123 Mega center 2,"Verovškova ulica 55a, 1000 Ljubljana",Ljubljana,5.69,3.0
-2529,Restavracija 123 FRI in FKKT,"Večna pot 113, 1000 Ljubljana",Ljubljana,4.89,2.2
-2531,Restavracija 123 Mercator Dunajska,"Dunajska cesta 107, 1000 Ljubljana",Ljubljana,5.69,3.0
-2533,K16,"Aškrčeva 2, 1000 Ljubljana",Ljubljana,2.69,0.0
-2535,ŽITO Ljublana železniška (kolodvor),"Trg OF 7, 1000 Ljubljana",Ljubljana,2.69,0.0
-2542,Mlečna restavracija - DOSTAVA,"Maistrov trg 13, 4000 Kranj",Kranj,5.9,3.21
-2543,Gostilna Pod Škalcami,"Oplotniška cesta 5, 3210 Slovenske Konjice",Slovenske Konjice,3.63,0.94
-2547,Gostilna Lužnik,"Ormoška cesta 18, 2250 Ptuj",Ptuj,5.03,2.34
-2549,Fastfood Ajda,"Trg OF 13, 1000 Ljubljana",Ljubljana,4.73,2.04
-2551,Picerija ERA,"Pod Trško goro 83, 8000 Novo mesto",Novo mesto,5.8,3.11
-2552,Samopostrežna restavracija Dobra hiša,"Stegne 11a, 1000 Ljubljana",Ljubljana,7.0,4.31
-2565,Podmornica,"Kardeljeva ploščad 17, 1000 Ljubljana",Ljubljana,6.13,3.44
-2569,Okrepčevalnica Stari Gril,"Glavni trg 5, 2000 Maribor",Maribor,5.43,2.74
-2581,KAPITAL,"Kardeljeva ploščad , 1000 Ljubljana",Ljubljana,5.33,2.64
-2589,Fari&#39;s Delice,"Miklošičeva 34, 1000 Ljubljana",Ljubljana,5.6,2.91
-2591,Garač - Restavracija &quot;M&quot;,"Šolska cesta 2, 4220 Škofja Loka",Škofja Loka,5.33,2.64
-2594,Gostilna JAKA,"Dolenjska cesta 103, 1000 Ljubljana",Ljubljana,6.2,3.51
-2595,SALAMON - dostava,"Dolenjska cesta 103, 1000 Ljubljana",Ljubljana,6.8,4.11
-2596,Restavracija šolski center Aškerčeva,"Aškerčeva 1, 1000 Ljubljana",Ljubljana,4.5,1.81
-2597,MEDITERRANEO,"Ciril Metodov trg 16, 1000 Ljubljana",Ljubljana,7.0,4.31
-2599,VOLTA,"Tržaška cesta 18, 1000 Ljubljana",Ljubljana,5.63,2.94
-2601,LA CANTINA,"Ulica Staneta Žagarja 2b, 4240 Radovljica",Radovljica,6.0,3.31
-2619,Restavracija ORIENT,"Taborska ulica 12, 2000 Maribor",Maribor,5.73,3.04
-2623,PE Dijaški dom Celje,"Ljubljanska cesta 21, 3000 Celje",Celje,5.17,2.48
-2624,Hotel Celeia,"Mariborska cesta 3, 3000 Celje",Celje,6.13,3.44
-2633,Slaščičarna in picerija AJDOVŠČINA,"Goriška cesta 11, 5270 Ajdovščina",Ajdovščina,6.0,3.31
-2635,Kitajska restavracija Dva zmaja,"Kersnikova 31, 3000 Celje",Celje,5.6,2.91
-2636,Pizzerija VERDI,"Dravska ulica 8, 2000 Maribor",Maribor,5.2,2.51
-2638,Karantanija,"Drulovka 40, 4000 Kranj",Kranj,5.03,2.34
-2640,London Street Food,"Stossmayerjeva ulica 26, 2000 Maribor",Maribor,6.03,3.34
-2641,Splošna bolnišnica Izola,"Polje 40, 6310 Izola/Isola",Izola/Isola,5.0,2.31
-2642,Lunch box,"Gosposvetska cesta 19, 2000 Maribor",Maribor,3.13,0.44
-2643,Fast food MAGIC,"Pristaniška ulica2, 6000 Koper/Capodistria",Koper/Capodistria,4.63,1.94
-2644,Kitajska restavracija AZIJA,"Gosposvetska ulica 1, 4000 Kranj",Kranj,5.83,3.14
-2648,ME GUSTA,"Jezdarska ulica 8b, 2000 Maribor",Maribor,3.13,0.44
-2649,Restavracija McDonalds - Citycenter,"Mariborska cesta 100, 3000 Celje",Celje,4.7,2.01
-2650,Gosposvetska,"Gosposvetska cesta 83, 2000 Maribor",Maribor,3.13,0.44
-2651,Q TABOR,"Gorkega ulica 45, 2000 Maribor",Maribor,6.9,4.21
-2652,Okrepčevalnica IZUM,"Prešernova 17, 2000 Maribor",Maribor,5.5,2.81
-2660,Pizzeria OLIVA - dostava,"Dečkova cesta 41, 3000 Celje",Celje,6.63,3.94
-2661,Pizzeria OLIVA,"Dečkova cesta 41, 3000 Celje",Celje,5.63,2.94
-2662,Un momento-pizza time,"Pobreška cesta 18, 2000 Maribor",Maribor,3.43,0.74
-2664,V parku,"Rimska cesta 13, 1000 Ljubljana",Ljubljana,2.69,0.0
-2668,Hiša pod gradom,"Streliška ulica 10, 1000 Ljubljana",Ljubljana,7.0,4.31
-2686,Čevabdžinica Sarajevo 84,"Tomažičev trg 1, 6000 Koper/Capodistria",Koper/Capodistria,6.5,3.81
-2691,Mornarček ribja kantina - restavracija,"Pistaniška ulica 2, 6000 Koper/Capodistria",Koper/Capodistria,6.5,3.81
-2698,Restavracija Zlata sreča,"Metelkova ulica 29, 2000 Maribor",Maribor,5.13,2.44
-2699,Bistro Tanja- DOSTAVA,"Cankarjeva ulica 58, 9000 Murska Sobota",Murska Sobota,6.0,3.31
-2702,Fresh 4 life Vetrinjska,"Vetrinjska ulica 9, 2000 Maribor",Maribor,2.69,0.0
-2703,Kitajska restavracija Azija,"Ptujska cesta 131 , 2000 Maribor",Maribor,6.13,3.44
-2705,Oštarija Pizzeria Da Noi - DOSTAVA,"Ulica Eve Lovše 1, 2000 Maribor",Maribor,7.0,4.31
-2707,CANTINA MEXICANA KNAFELJ,"Knafljev prehod 2, 1000 Ljubljana",Ljubljana,7.0,4.31
-2708,CANTINA MEXICANA RUDNIK,"Jurčkova cesta 223, 1000 Ljubljana",Ljubljana,6.83,4.14
-2709,CUTTY FOOD CORNER,"Knafljev prehod 1, 1000 Ljubljana",Ljubljana,4.0,1.31
-2711,KAMPUS PIZZA,"Pivovarniška ulica 6, 1000 Ljubljana",Ljubljana,6.13,3.44
-2714,Subway,"Slovenska cesta 1, 1000 Ljubljana",Ljubljana,4.13,1.44
-2721,Restavracija Modri kvadrat,"Davčna ulica 1, 1000 Ljubljana",Ljubljana,6.0,3.31
-2723,Fajn Fuud,"Poljanska cesta 22, 1000 Ljubljana",Ljubljana,5.43,2.74
-2724,Fajn Fuud Pizza,"Poljanska cesta 22, 1000 Ljubljana",Ljubljana,2.69,0.0
-2725,No. 12 - Gril &amp; Kebab,"Čopova 12, 1000 Ljubljana",Ljubljana,5.2,2.51
-2726,LIPCA - INDEKS,"Borštnikov trg 3a, 1000 Ljubljana",Ljubljana,2.69,0.0
-2729,Okrepčevalnica Pekarna Dobrot,"Kotnikova 5, 1000 Ljubljana",Ljubljana,4.03,1.34
-2732,Okrepčevalnica - Diner kino gledališče Bežigrad,"Linhartova 11, 1000 Ljubljana",Ljubljana,5.93,3.24
-2736,Pizzeria Chianti,"Rozmanova ulica 25, 8000 Novo mesto",Novo mesto,6.0,3.31
-2739,Roza slon,"Trg OF 14, 1000 Ljubljana",Ljubljana,5.53,2.84
-2748,Azijska restavracija Tloft,"Gosposvetska cesta 4, 1000 Ljubljana",Ljubljana,6.13,3.44
-2753,Prehrana Palača SMELT,"Dunajska 160, 1000 Ljubljana",Ljubljana,6.13,3.44
-2754,Picerija Štangelj,"UlicaIvana Roba 56, 8000 Novo mesto",Novo mesto,6.13,3.44
-2757,Okrepčevalnica TimeOut,"Trg OF 10, 1000 Ljubljana",Ljubljana,3.83,1.14
-2759,Restavracija McDonalds - Ptuj,"Ormoška cesta 3, 2250 Ptuj",Ptuj,4.7,2.01
-2761,Kitajska restavracija Zlata srna,"Ulica Pohorskega bataljona 14, 2000 Maribor",Maribor,5.33,2.64
-2762,Kitajska restavracija Zlata srna - DOSTAVA,"Ulica Pohorskega bataljona 14, 2000 Maribor",Maribor,6.13,3.44
-2765,Noomm,"Tyrševa 3, 2000 Maribor",Maribor,6.23,3.54
-2768,Restavracija Mr. FALAFEL,"Gosposka ulica 30, 2000 Maribor",Maribor,6.13,3.44
-2771,ŽITO Ljubljana Bavarski dvor,"Slovenska cesta 58, 1000 Ljubljana",Ljubljana,2.69,0.0
-2772,Kitajsko mesto - dostava,"Slamnikarjeva 1, 1230 Domžale",Domžale,6.5,3.81
-2775,Kitajska palača - DOSTAVA,"Focheva ulica 41, 2000 Maribor",Maribor,6.53,3.84
-2776,Okrepčevalnica ŠIŠ,"Usnjarska ulica 5, 2000 Maribor",Maribor,5.92,3.23
-2778,Halo Pinki,"Pod ježami 14, 1000 Ljubljana",Ljubljana,5.93,3.24
-2781,Samopostrežna restavracija Stolpič,"Mariborska cesta 7, 3000 Celje",Celje,5.5,2.81
-2784,Pizzerija in špageterija BUF Kranj,"Stara cesta 25b, 4000 Kranj",Kranj,6.13,3.44
-2786,Trattoria Portofino,"Tržaška cesta 65, 2000 Maribor",Maribor,5.63,2.94
-2815,McDonald&#39;s restavracija Nova Gorica,"Vojkova cesta 111, 5000 Nova Gorica",Nova Gorica,4.7,2.01
-2817,Dijaški dom Portorož,"Sončna pot 20, 6320 Portorož/Portorose",Portorož/Portorose,5.53,2.84
-2821,BISTRO VILLA DOMUS,"Vojkovo nabrežje 12, 6000 Koper/Capodistria",Koper/Capodistria,5.79,3.1
-2826,Menza FS,"Aškerčeva cesta 6, 1000 Ljubljana",Ljubljana,5.6,2.91
-2828,Namaste Indian Express,"Trubarjeva ulica 31, 1000 Ljubljana",Ljubljana,5.93,3.24
-2829,Domača pekarna,"Dunajska cesta 113, 1000 Ljubljana",Ljubljana,3.33,0.64
-2830,EKSPERIMENT restavracija &amp; bar,"Slovenska cesta 10, 1000 Ljubljana",Ljubljana,6.93,4.24
-2832,Kavarna BORŠTNIK,"Borštnikov trg 2, 1000 Ljubljana",Ljubljana,2.69,0.0
-2833,Restavracija KOTNIKOVA,"Kotnikova 28, 1000 Ljubljana",Ljubljana,5.53,2.84
-2834,Gostilnica in pivnica Katrca,"Rožna dolina, Cesta I. 26A, 1000 Ljubljana",Ljubljana,6.63,3.94
-2839,Kavarna STRIT,"Zdravstevna  pot 5, 1000 Ljubljana",Ljubljana,4.53,1.84
-2841,Hong Xiang,"Cesta v mestni log 55, 1000 Ljubljana",Ljubljana,5.63,2.94
-2842,Hong Xiang - dostava,"Cesta v mestni log 55, 1000 Ljubljana",Ljubljana,6.63,3.94
-2843,Restavracija GIG,"Mala ulica 5, 1000 Ljubljana",Ljubljana,7.0,4.31
-2844,Leteča zvezda,"Kvedrova cesta 5a, 1000 Ljubljana",Ljubljana,5.63,2.94
-2846,HotSpot bar&amp;bistro,"Kardeljeva ploščad 17, 1000 Ljubljana",Ljubljana,5.8,3.11
-2847,HotSpot Center bar&amp;bistro,"Nazorjeva 6, 1000 Ljubljana",Ljubljana,5.8,3.11
-2849,Forum,"Petkovškovo nabrežje 25, 1000 Ljubljana",Ljubljana,7.0,4.31
-2854,Restavracija Tartuf &quot;Center&quot;,"Mali trg 3a, 1000 Ljubljana",Ljubljana,6.33,3.64
-2859,Roza slon Bežigrad,"Dunajska 115, 1000 Ljubljana",Ljubljana,5.53,2.84
-2863,Papagayo,"Gosposka ulica 6, 2000 Maribor",Maribor,5.63,2.94
-2866,McDonald&#39;s restavracija - Kranj Drive,"Cesta Boštjana Hladnika 7, 4000 Kranj",Kranj,4.7,2.01
-2868,McDonald&#39;s restavracija - Celje Drive,"Mariborska cesta 164, 3000 Celje",Celje,4.7,2.01
-2869,Restavracija  Amfora,"Osojnikova 12, 2250 Ptuj",Ptuj,5.33,2.64
-2870,Restavracija Slorest Vičava,"Vičava 1, 2250 Ptuj",Ptuj,4.55,1.86
-2872,Bruc bar,"Razlagova 9, 2000 Maribor",Maribor,4.13,1.44
-2875,MC PANDA,"Ulica Vita Kraigherja 5, 2000 Maribor",Maribor,3.13,0.44
-2880,TO JE TO balkan žar,"Kersnikova 6, 1000 Ljubljana",Ljubljana,6.21,3.52
-2882,"UTRIP - bar, bistro in kavarna","Šmartinska cesta 3, 1000 Ljubljana",Ljubljana,7.0,4.31
-2884,Restavracija sarajevskih jedi Valter Jesenice,"Cesta Maršala Tita 106, 4270 Jesenice",Jesenice,4.93,2.24
-2886,BABICA,"Tržaška cesta 200, 1000 Ljubljana",Ljubljana,6.99,4.3
-2887,Restavracija sarajevskij jedi Valter Radovljica,"Cankarjeva 66, 4240 Radovljica",Radovljica,4.93,2.24
-2915,Restavracija TR3,"Trg repubilke 3, 1000 Ljubljana",Ljubljana,6.5,3.81
-2918,Restavracija Snežinka,"Šmartinska cesta 132, 1000 Ljubljana",Ljubljana,6.5,3.81
-2919,Spar partner Nama,"Tomšičeva 2, 1000 Ljubljana",Ljubljana,5.0,2.31
-2921,Skuhna,"Trubarjeva 56, 1000 Ljubljana",Ljubljana,6.13,3.44
-2924,AULA Cofe,"Kardeljeva ploščad 5, 1000 Ljubljana",Ljubljana,2.69,0.0
-2926,BIGDIL Cofe,"Kardeljeva ploščad 17, 1000 Ljubljana",Ljubljana,2.69,0.0
-2927,Picerija Lavanda,"Otoška cesta 5, 8000 Novo mesto",Novo mesto,5.8,3.11
-2930,Dežela okusov,"Eipprova 11, 1000 Ljubljana",Ljubljana,7.0,4.31
-2931,Bistro Suwon,"Dunajska 101, 1000 Ljubljana",Ljubljana,6.0,3.31
-2932,B2 - dostava,"Tržaška cesta 200, 1000 Ljubljana",Ljubljana,6.99,4.3
-2933,XIAO FENG,"Bazoviška ulica 6, 5000 Nova Gorica",Nova Gorica,5.93,3.24
-2935,Okrepčevalnica BUREK,"Poljanska cesta 7, 1000 Ljubljana",Ljubljana,3.83,1.14
-2943,Gostilna Jerinček,"Jurčkova cesta 99, 1000 Ljubljana",Ljubljana,5.13,2.44
-2944,Okrepčevalnica Ajda,"Ajdovščina 4, 1000 Ljubljana",Ljubljana,5.53,2.84
-2947,Gostilna Čuk,"Cesta zmage 34, 1410 Zagorje ob Savi",Zagorje ob Savi,6.0,3.31
-2949,Gostilna Bučar,"Šmihel 14, 8000 Novo mesto",Novo mesto,6.33,3.64
-2950,Kitajska restavracija Han,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,6.3,3.61
-2951,DAS IST WALTER Ljubljana Center,"Borštnikov trg 3, 1000 Ljubljana",Ljubljana,6.13,3.44
-2952,Zbornica bar in žar,"Rimska cesta 13, 1000 Ljubljana",Ljubljana,7.0,4.31
-2953,Restavracija Peking,"Gregorčičeva ulica 19, 2000 Maribor",Maribor,4.69,2.0
-2955,Restavraciaj Amfora - DOSTAVA,"Osojnikova 12, 2250 Ptuj",Ptuj,6.28,3.59
-2956,Žito Leon Štukelj Maribor,"Trg Leona Štuklja 1, 2000 Maribor",Maribor,2.69,0.0
-2958,Meating pub &amp; restavracija,"Mlinska ulica 2, 2000 Maribor",Maribor,6.03,3.34
-2959,Restavracija Rutar Maribor,"Tržaška cesta 67, 2000 Maribor",Maribor,6.13,3.44
-2960,Taverna Sicilia,"Ulica Heroja Nandeta 31, 2000 Maribor",Maribor,6.2,3.51
-2961,Taverna Sicilia - DOSTAVA,"Ulica Heroja Nandeta 31, 2000 Maribor",Maribor,6.2,3.51
-2968,Gostinske storitve Michel Toš s.p.,"Slivniška cesta 6, 2311 Hoče",Hoče,5.13,2.44
-2969,Gostinske storitve Michel Toš s.p. - DOSTAVA,"Slivniška cesta 6, 2311 Hoče",Hoče,5.63,2.94
-2970,Picerija restavracija Moriccu,"Meljska cesta 39, 2000 Maribor",Maribor,5.5,2.81
-2975,Maxi Ljubljana,"Trg republike 1, 1000 Ljubljana",Ljubljana,4.99,2.3
-2977,Hipermarket Ljubljana Šiška,"Cesta Ljubljanske brigade 33, 1000 Ljubljana",Ljubljana,4.99,2.3
-2982,Gostilna in pizzeria Jurček,"Jurčkova cesta 7, 1000 Ljubljana",Ljubljana,6.0,3.31
-2983,PREHRANA Bar VO-KA,"Vodovodna cesta 90, 1000 Ljubljana",Ljubljana,6.13,3.44
-2988,Subway BTC,"Šmartinska cesta 152, 1000 Ljubljana",Ljubljana,4.13,1.44
-2992,RESDOBR,"Cankarjeva cesta 6, 1000 Ljubljana",Ljubljana,6.2,3.51
-2993,Znanstvena kavarna Mafija,"Jadranska ulica 21, 1000 Ljubljana",Ljubljana,2.69,0.0
-2994,Ljudska kuhinja,"Zaloška cesta 42, 1000 Ljubljana",Ljubljana,4.9,2.21
-2995,Meta &amp; Bazilika,"Rimska cesta 25a, 1000 Ljubljana",Ljubljana,6.63,3.94
-2996,FALAFEL HIŠA-DOSTAVA,"Slovenska 51, 1000 Ljubljana",Ljubljana,6.33,3.64
-2997,FALAFEL HIŠA,"Slovenska 51, 1000 Ljubljana",Ljubljana,2.69,0.0
-2998,Tasty snacks,"Cafova ulica 4, 2000 Maribor",Maribor,2.69,0.0
-3000,Balkan Ekspress-dostava,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,7.0,4.31
-3001,Okrepčevalnica Meranovo,"Pivola 10, 2311 Hoče",Hoče,4.63,1.94
-3002,Village snacks,"Turnerjeva ulica 17, 2000 Maribor",Maribor,3.13,0.44
-3003,Okrepčevalnica Noodle box,"Ulica Vita Kraigherja 5, 2000 Maribor",Maribor,5.13,2.44
-3005,Okrepčevalnica Azzurro,"Nove Fužine 43, 1000 Ljubljana",Ljubljana,5.63,2.94
+id,ime,naslov,kraj,cena_obroka,doplacilo
+
+1011,Pizzeria Vila Raineri,"Tomažičeva ulica 10, 6310 Izola/Isola",Izola/Isola,5.9,3.21
+
+1013,Dijaški in študentski dom Koper,"Cankarjeva 5, 6000 Koper/Capodistria",Koper/Capodistria,5.03,2.34
+
+1023,Restavracija Interspar Koper,"Ankaranska cesta 3A, 6000 Koper/Capodistria",Koper/Capodistria,5.62,2.93
+
+1025,Restavracija Interspar Nova Gorica,"Cesta 25. junija 1a, 5000 Nova Gorica",Nova Gorica,5.62,2.93
+
+1031,Pizzerija Atrij,"Čevljarska 8, 6000 Koper/Capodistria",Koper/Capodistria,5.93,3.24
+
+1090,Dijaški dom Lizike Jančar,"Titova cesta 24a, 2000 Maribor",Maribor,4.7,2.01
+
+1091,Dijaški dom Maribor,"Gosposvetska cesta 89, 2000 Maribor",Maribor,5.63,2.94
+
+1100,Restavracija Tuš Celje (Planet Tuš),"Mariborska cesta 128, 3000 Celje",Celje,5.62,2.93
+
+1101,Tuš restavracija Maribor Studenci (Planet Tuš),"Na Poljanah 18, 2000 Maribor",Maribor,5.62,2.93
+
+1102,Restavracija Tuš Kranj,"Cesta Jake Platiše 18, 4000 Kranj",Kranj,5.62,2.93
+
+1103,Pizzeria in špageteria Al Capone,"Pobreška cesta 18, 2000 Maribor",Maribor,5.93,3.24
+
+1110,Kratochwill,"Nemčavci 1d, 9000 Murska Sobota",Murska Sobota,6.0,3.31
+
+1123,Gostilna Zlati lev,"Vodnikov trg 4, 2000 Maribor",Maribor,5.03,2.34
+
+1124,Gostilna Zlati lev - DOSTAVA,"Vodnikov trg 4, 2000 Maribor",Maribor,5.43,2.74
+
+1130,Restavracija Kitajski vrt,"Dravska cesta 7 , 2250 Ptuj",Ptuj,5.63,2.94
+
+1145,Hotel Slovenj Gradec,"Glavni trg 43, 2380 Slovenj Gradec",Slovenj Gradec,4.5,1.81
+
+1161,Cantante cafe Tabor,"Ulica Pariške komune 37, 2000 Maribor",Maribor,6.2,3.51
+
+1164,Kitajski dvor - DOSTAVA,"Teharska cesta 35, 3000 Celje",Celje,5.93,3.24
+
+1165,Kitajska restavracija Zvezda,"Loška ulica 10, 2000 Maribor",Maribor,5.09,2.4
+
+1176,Pizzerija Velun,"Šalek 24 a, 3320 Velenje",Velenje,6.53,3.84
+
+1179,McDonald&#180;s restavracija Velenje,"Kidričeva 2b, 3320 Velenje",Velenje,4.7,2.01
+
+1182,McDonald&#180;s restavracija - Swaty,"Tržaška 6, 2000 Maribor",Maribor,4.7,2.01
+
+1184,McDonald&#180;s restavracija Ptujska,"Ptujska 106, 2000 Maribor",Maribor,4.7,2.01
+
+1185,McDonald&#180;s restavracija Europark,"Pobreška 18, 2000 Maribor",Maribor,4.7,2.01
+
+1188,Gurmanski hram,"Zagrebška cesta 92, 2000 Maribor",Maribor,4.83,2.14
+
+1189,Gurmanski hram - DOSTAVA,"Zagrebška cesta 92, 2000 Maribor",Maribor,4.83,2.14
+
+1190,Kavarna Stil Burger,"Koroška cesta 59, 2000 Maribor",Maribor,4.0,1.31
+
+1194,Restavracija Interspar Maribor Europark,"Pobreška 18, 2000 Maribor",Maribor,5.62,2.93
+
+1195,Restavracija Interspar Celje,"Mariborska 100, 3000 Celje",Celje,5.62,2.93
+
+1197,Restavracija Interspar Maribor Qlandia,"Cesta Proletarskih brigad 100, 2000 Maribor",Maribor,5.62,2.93
+
+1198,Restavracija Interspar Kranj,"Cesta 1.maja 77, 4000 Kranj",Kranj,5.62,2.93
+
+1199,Restavracija Interspar Murska Sobota,"Nemčavci 1d, 9000 Murska Sobota",Murska Sobota,5.62,2.93
+
+1214,Mlečna restavracija,"Maistrov trg 13, 4000 Kranj",Kranj,4.9,2.21
+
+1224,Okrepčevalnica Bober (Partizanska),"Partizanska 50, 2000 Maribor",Maribor,4.63,1.94
+
+1232,Okrepčevalnica - bistro Tanja,"Cankarjeva ulica 58, 9000 Murska Sobota",Murska Sobota,5.0,2.31
+
+1234,Okrepčevalnica Minutka,"Celjska cesta 48 b, 2380 Slovenj Gradec",Slovenj Gradec,5.0,2.31
+
+1237,Okrepčevalnica Pivnica Alf,"Koroška cesta 5, 2000 Maribor",Maribor,5.43,2.74
+
+1238,Okrepčevalnica Pivnica Alf - DOSTAVA,"Koroška cesta 5, 2000 Maribor",Maribor,5.93,3.24
+
+1262,UFO,"Svetčeva ulica 14, 1000 Ljubljana",Ljubljana,5.61,2.92
+
+1265,Prometna šola Maribor,"Preradovičeva ulica 33, 2000 Maribor",Maribor,5.13,2.44
+
+1266,Pizzeria Pronto,"Koroška cesta 60, 2000 Maribor",Maribor,4.83,2.14
+
+1298,Restavracija Splošne bolnišnice Novo mesto,"Šmihelska cesta 1, 8000 Novo mesto",Novo mesto,4.5,1.81
+
+1305,Pizzeria in špagetteria Cubus,"Podbevškova ulica 11, 8000 Novo mesto",Novo mesto,5.53,2.84
+
+1314,Dijaški dom Vič,"Gerbičeva 51/a, 1000 Ljubljana",Ljubljana,5.03,2.34
+
+1321,Restavracija Rdeče jabolko,"Tržaška 116, 1000 Ljubljana",Ljubljana,5.93,3.24
+
+1334,Pizzeria Totalka,"Kandijska cesta 60, 8000 Novo mesto",Novo mesto,6.03,3.34
+
+1335,Pizzeria Šestinka,"Miklošičeva cesta 22, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+1336,Pizzeria Tunnel,"Karlovška cesta 5, 1000 Ljubljana",Ljubljana,6.53,3.84
+
+1339,Vegetarijanska restavracija Radha Govinda,"Žibretova 23, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+1341,McDonald&#39;s restavracija - Celovška,"Celovška cesta 170, 1000 Ljubljana",Ljubljana,4.7,2.01
+
+1342,McDonald&#39;s McDrive Domžale,"Breznikova 15, 1230 Domžale",Domžale,4.7,2.01
+
+1346,Kitajska restavracija Novi Šanghai,"Kapitelska 5, 1000 Ljubljana",Ljubljana,5.93,3.24
+
+1351,Hostel Situla,"Dilančeva 1, 8000 Novo mesto",Novo mesto,6.03,3.34
+
+1360,Restavracija Plečnikov hram,"Trg francoske revolucije 2, 1000 Ljubljana",Ljubljana,6.23,3.54
+
+1366,Piazza del Papa,"Jurčkova cesta 223, 1000 Ljubljana",Ljubljana,6.2,3.51
+
+1367,Restavracija Skriti kot,"Ajdovščina 4, 1000 Ljubljana",Ljubljana,6.53,3.84
+
+1369,Restavracija Interspar Citypark,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,5.62,2.93
+
+1370,Restavracija Interspar Vič,"Jamova 105, 1000 Ljubljana",Ljubljana,5.62,2.93
+
+1375,Gostilna Šeligo,"Goliev trg 8, 8210 Trebnje",Trebnje,6.13,3.44
+
+1377,Restavracija McDonald&#39;s Čopova,"Čopova 14, 1000 Ljubljana",Ljubljana,4.7,2.01
+
+1378,Restavracija McDonald&#39;s Žito,"Šmartinska 154, 1000 Ljubljana",Ljubljana,4.7,2.01
+
+1379,Restavracija McDonald&#39;s -Železniška,"Trg osvobodilne fronte 6, 1000 Ljubljana",Ljubljana,4.7,2.01
+
+1380,Restavracija McDonald&#39;s Kolosej,"Šmartinska 152, 1000 Ljubljana",Ljubljana,4.7,2.01
+
+1381,Restavracija McDonald&#39;s Novo mesto,"Ljubljanska 24, 8000 Novo mesto",Novo mesto,4.7,2.01
+
+1382,Restavracija Mozart,"Stegne 7, 1000 Ljubljana",Ljubljana,6.0,3.31
+
+1386,Joe Pena&#39;s Cantina y Bar,"Cankarjeva cesta 6, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+1402,Pizzeria Gregorino,"Vojkova 34, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+1403,Restavracija Kavarna pizzeria Hombre,"Gerbičeva ulica 61, 1000 Ljubljana",Ljubljana,6.53,3.84
+
+1407,Mehiška restavracija Imperio mexicano,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,6.5,3.81
+
+1413,Pizzerija in okrepčevalnica KONDOR,"Cesta v Mestni log 55, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+1415,Kitajska restavracija NANKING,"Mačkovec 6, 8000 Novo mesto",Novo mesto,5.63,2.94
+
+1421,Klopčič - Dom Litostroj,"Litostrojska cesta 55, 1000 Ljubljana",Ljubljana,5.4,2.71
+
+1422,Klopčič,"Litostrojska cesta 57, 1000 Ljubljana",Ljubljana,5.4,2.71
+
+1423,Pizzeria Laterna,"Tržaška 79a, 1000 Ljubljana",Ljubljana,6.29,3.6
+
+1424,PE Marjetica,"Tobačna ulica 5, 1000 Ljubljana",Ljubljana,4.9,2.21
+
+1429,Kurji tat,"Tbilisijska 59, 1000 Ljubljana",Ljubljana,5.9,3.21
+
+1432,Ejga - restavracija - kavarna - pub - catering,"Cesta maršala Tita 27, 4270 Jesenice",Jesenice,7.0,4.31
+
+1441,Pizzeria FoculuS,"Gregorčičeva ulica 3, 1000 Ljubljana",Ljubljana,6.93,4.24
+
+1465,Bistro Šumi,"Kardeljeva ploščad 5, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+1466,Pizzerija Piramida,"Vojkova 71, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+1471,Oštarija Rudolfswerth,"Kandijska cesta 35, 8000 Novo mesto",Novo mesto,5.0,2.31
+
+1474,Pravna fakulteta,"Poljanski nasip 2, 1000 Ljubljana",Ljubljana,5.6,2.91
+
+1477,Vegetarijanska okrepčevalnica HOLYFOOD,"Igriška 5, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+1478,ABI FALAFEL,"Trubarjeva cesta 40, 1000 Ljubljana",Ljubljana,6.93,4.24
+
+1485,"DA BU DA, Azijska restavracija","Šubičeva 1a, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+1500,Dijaški dom Ivana Cankarja,"Poljanska cesta 26, 1000 Ljubljana",Ljubljana,5.13,2.44
+
+1501,Dijaški in študentski dom Novo mesto,"Šegova ulica 115, 8000 Novo mesto",Novo mesto,5.13,2.44
+
+1502,Dijaški dom Poljane,"Potočnikova ulica 3, 1000 Ljubljana",Ljubljana,4.83,2.14
+
+1530,Restavracija 123 Delo,"Dunajska 5, 1000 Ljubljana",Ljubljana,5.69,3.0
+
+1532,Restavracija 123 Pedagoška,"Kardeljeva ploščad 16, 1000 Ljubljana",Ljubljana,5.05,2.36
+
+1536,Restavracija McDonald&#39;s Rudnik,"Premrlova ulica 12, 1000 Ljubljana",Ljubljana,4.7,2.01
+
+1541,Okrepčevalnica Kemijski inštitut,"Hajdrihova 19, 1000 Ljubljana",Ljubljana,5.8,3.11
+
+1564,Restavracija  &quot;Baščaršija&quot;,"Poštna ulica 8, 2000 Maribor",Maribor,5.8,3.11
+
+1576,Vozi Miško (MC Šiška),"Cesta Ljubljanske brigade 33, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+1578,Dobrote vzhoda,"Celovška cesta 69 a, 1000 Ljubljana",Ljubljana,6.23,3.54
+
+1583,Restavracija 123 Pristan,"Vojkovo nabrežje 32, 6000 Koper/Capodistria",Koper/Capodistria,5.69,3.0
+
+1597,Running sushi &amp; wok,"Jurčkova cesta 223, 1000 Ljubljana",Ljubljana,6.5,3.81
+
+1610,Kitajski dvor,"Dunajska cesta 29, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+1615,Okrepčevalnica Badovinac,"Kardeljeva ploščad 5, 1000 Ljubljana",Ljubljana,3.89,1.2
+
+1626,Restavracija DK,"Titov trg 3, 3320 Velenje",Velenje,5.1,2.41
+
+1627,Hotel Paka,"Rudarska cesta 1, 3320 Velenje",Velenje,6.5,3.81
+
+1628,Maestro (City center Celje),"Mariborska 100, 3000 Celje",Celje,6.0,3.31
+
+1639,Kanape,"Gosposvetska cesta 15, 2000 Maribor",Maribor,3.13,0.44
+
+1645,Bohor,"Kidričeva ulica 23, 3250 Rogaška Slatina",Rogaška Slatina,6.63,3.94
+
+1668,Eat smart,"Strossmayerjeva 13, 2000 Maribor",Maribor,3.13,0.44
+
+1673,Cantante cafe Tabor - DOSTAVA,"Ulica Pariške komune 37, 2000 Maribor",Maribor,6.7,4.01
+
+1683,Okrepčevalnica - pizzerija Maks,"Dunajska cesta 111, 1000 Ljubljana",Ljubljana,5.9,3.21
+
+1711,Pizzerija Etna - italijanska kuhinja,"Ulica Marije Hvaličeve 6, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+1716,Pizzerija Dimnik,"Obrtniška cesta 1, 1420 Trbovlje",Trbovlje,6.0,3.31
+
+1717,Pizzerija Dimnik - dostava,"Obrtniška cesta 1, 1420 Trbovlje",Trbovlje,6.5,3.81
+
+1718,Mehiška restavracija Imperio - dostava,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+1768,Restavracija klub Cankarjevega doma,"Prešernova cesta 10, 1000 Ljubljana",Ljubljana,6.6,3.91
+
+1772,AMBIENT,"Topniška 29a, 1000 Ljubljana",Ljubljana,5.33,2.64
+
+1778,Okrepčevalnica AZZURRO,"Nove Fužine 43, 1000 Ljubljana",Ljubljana,5.63,2.94
+
+1791,ŽITO Ljubljana Vodnik,"Vodnikov trg 5, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+1794,Picestavracija Boccaccio,"Celovška cesta 249, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+1798,Pivnica Adam Ravbar,"Perkova 17, 1230 Domžale",Domžale,6.4,3.71
+
+1804,Halo Rdeče jabolko - dostava,"Tržaška 116, 1000 Ljubljana",Ljubljana,6.93,4.24
+
+1817,Bar ENKA,"Baragova 16, 1000 Ljubljana",Ljubljana,4.13,1.44
+
+1823,Restavracija Burger King,"Šmartinska cesta 152g, 1000 Ljubljana",Ljubljana,4.0,1.31
+
+1827,Restavracija Fany &amp; Mary,"Petkovškovo nabrežje 19, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+1834,Gostilnica in pizzerija Kratochwill,"Jurčkova 225, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+1835,Gostilnica in pizzerija Kratochwill,"Šmartinska 152, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+1838,Kitajsko mesto,"Slamnikarjeva 1, 1230 Domžale",Domžale,5.5,2.81
+
+1847,Gostišče na trgu - Hiša kulinarike,"Glavni trg 30, 8000 Novo mesto",Novo mesto,5.4,2.71
+
+1849,Gostišče KUM,"Prešernova cesta 1, 1410 Zagorje ob Savi",Zagorje ob Savi,5.8,3.11
+
+1860,Gostilna Racman,"Brezina 19/b, 8250 Brežice",Brežice,5.6,2.91
+
+1861,Pizzerija Ašič,"Pečarjeva 1, 1410 Zagorje ob Savi",Zagorje ob Savi,6.13,3.44
+
+1865,Antaro,"Leskoškova 9e, 1000 Ljubljana",Ljubljana,6.0,3.31
+
+1910,MC Patriot,"Žička cesta 4a, 3210 Slovenske Konjice",Slovenske Konjice,3.63,0.94
+
+1911,Kitajski dvor,"Teharska cesta 35, 3000 Celje",Celje,5.93,3.24
+
+1925,Okrepčevalnica TIP TOP,"Partizanska cesta 50, 2000 Maribor",Maribor,3.63,0.94
+
+1983,Pek Matjaž Glavni trg,"Glavni trg 25, 2380 Slovenj Gradec",Slovenj Gradec,2.69,0.0
+
+1984,Pek Matjaž Tomšičeva,"Tomšičeva cesta 15, 3320 Velenje",Velenje,2.69,0.0
+
+1988,Gostilna Lečnik,"Trg Svobode 4, 2390 Ravne na Koroškem",Ravne na Koroškem,6.0,3.31
+
+1994,Pizzerija Gorenc,"Koroška cesta 59, 4000 Kranj",Kranj,5.4,2.71
+
+1999,Kavarna in restavracija Pecivo,"Delpinova 16, 5000 Nova Gorica",Nova Gorica,6.5,3.81
+
+2011,Pizzerija Ašič - dostava,"Pečarjeva ulica 1, 1410 Zagorje ob Savi",Zagorje ob Savi,6.63,3.94
+
+2023,"Biotehniška fakulteta, Menza BF","Večna pot 111, 1000 Ljubljana",Ljubljana,5.6,2.91
+
+2040,Restavracija Kitajska palača,"Focheva ulica 41, 2000 Maribor",Maribor,5.33,2.64
+
+2049,Okrepčevalnica Sarajevo,"Gosposvetska cesta 43c, 2000 Maribor",Maribor,5.8,3.11
+
+2085,Restavracija Mango,"Turnerjeva ulica 17, 2000 Maribor",Maribor,6.29,3.6
+
+2092,Šeherezada,"Trubarjeva cesta 31, 1000 Ljubljana",Ljubljana,4.0,1.31
+
+2097,Restavracija Fresco,"Slovenska cesta 51, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+2098,Fast food Fresco in Slast,"Slovenska cesta 51, 1000 Ljubljana",Ljubljana,4.13,1.44
+
+2102,Biotehniški izobraževalni center Ljubljana,"Ižanska cesta 10, 1000 Ljubljana",Ljubljana,5.3,2.61
+
+2103,Biotehniški izobraževalni center Ljubljana,"Cesta v Mestni log 47, 1000 Ljubljana",Ljubljana,5.3,2.61
+
+2111,Dijaški dom Tabor,"Vidovdanska 7, 1000 Ljubljana",Ljubljana,5.09,2.4
+
+2115,Stara krška pizzerija,"Cesta krških žrtev 59, 8270 Krško",Krško,6.0,3.31
+
+2116,Stara krška pizzerija - dostava,"Cesta krških žrtev 59, 8270 Krško",Krško,6.2,3.51
+
+2117,Kitajski dvor - dostava,"Dunajska cesta 29, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+2131,Restavracija sarajevskih jedi Valter Ljubljana,"Šmartinska cesta 3, 1000 Ljubljana",Ljubljana,4.93,2.24
+
+2133,Barbado,"Dunajska cesta 106, 1000 Ljubljana",Ljubljana,6.39,3.7
+
+2145,Slaščičarna in kavarna Leonard,"Trg mladinskih delovnih brigad 12, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2147,Azijska restavracija Han,"Kongresni trg 3, 1000 Ljubljana",Ljubljana,6.3,3.61
+
+2152,Maharaja indijska restavracija,"Vodnikova 35, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2161,Gostilna in picerija Pavon,"Njegoševa 6 K, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2164,Restavracija Allegria,"Nazorjeva ulica 8, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2165,Pizzeria Osmica,"Nazorjeva ulica 8, 1000 Ljubljana",Ljubljana,6.03,3.34
+
+2180,"Restavracija Prestige catering, GZS","Dimičeva ulica 13, 1000 Ljubljana",Ljubljana,5.8,3.11
+
+2185,Pivovarna in pivnica Kratochwill,"Kolodvorska ulica 14, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+2187,Restavracija 123 DSU,"Litostrojska 54, 1000 Ljubljana",Ljubljana,5.69,3.0
+
+2195,Čevabdžinica Sarajevo 84,"Gramšijev trg 8, 6000 Koper/Capodistria",Koper/Capodistria,6.5,3.81
+
+2203,Labirint,"Čevljarska 9, 6000 Koper/Capodistria",Koper/Capodistria,5.73,3.04
+
+2204,Primavera Izola,"Prešernova cesta 55, 6310 Izola/Isola",Izola/Isola,7.0,4.31
+
+2205,Primavera Izola-DOSTAVA,"Prešernova cesta 55 , 6310 Izola/Isola",Izola/Isola,7.0,4.31
+
+2213,Študentski dom Ljubljana - Restavracija,"Svetčeva ulica 9, 1000 Ljubljana",Ljubljana,5.69,3.0
+
+2229,Restavracija Piano,"Koroška cesta 160, 2000 Maribor",Maribor,5.89,3.2
+
+2234,Eat smart FERI,"Smetanova 17, 2000 Maribor",Maribor,5.33,2.64
+
+2243,CITYBURGER,"Ankaranska 7, 6000 Koper/Capodistria",Koper/Capodistria,6.53,3.84
+
+2247,"AROMA, restavracija in pizzerija","Ribji trg 2, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2248,Picerija Barjan,"Cesta v Mestni log 55, 1000 Ljubljana",Ljubljana,6.33,3.64
+
+2249,News Cafe,"Obala 4F, 6320 Portorož/Portorose",Portorož/Portorose,6.13,3.44
+
+2252,Restavracija sarajevskih jedi Valter - Škofja Loka,"Kidričeva cesta 8c, 4220 Škofja Loka",Škofja Loka,4.93,2.24
+
+2253,McDonald&#39;s restavracija Koper,"Ankaranska 4, 6000 Koper/Capodistria",Koper/Capodistria,4.7,2.01
+
+2254,Slaščičarna in picerija Ajdovščina - HALO ERIK-DOSTAVA,"Goriška cesta 11, 5270 Ajdovščina",Ajdovščina,6.0,3.31
+
+2256,Kitajska restavracija Beli labod,"Masarykova 17, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+2263,Srednja šola Izola - Scuola media Isola,"Prekomorskih brigad 7, 6310 Izola/Isola",Izola/Isola,4.63,1.94
+
+2264,Kitajska restavracija Cesarska hiša,"Ankaranska cesta 5B, 6000 Koper/Capodistria",Koper/Capodistria,6.13,3.44
+
+2265,Kitajska restavracja Cesarska hiša-DOSTAVA,"Ankaranska cesta 5B, 6000 Koper/Capodistria",Koper/Capodistria,6.93,4.24
+
+2270,Pizzeria in špageterija AL CAPONE,"Šmartinska cesta 152, 1000 Ljubljana",Ljubljana,5.9,3.21
+
+2271,Oštarija pri Oljki,"Šmartinska cesta 152, 1000 Ljubljana",Ljubljana,6.0,3.31
+
+2275,Zlati krožnik,"Ljubljanska cesta 89, 1230 Domžale",Domžale,6.13,3.44
+
+2278,Restavracija Kompliment,"Kidričeva cesta 75, 4220 Škofja Loka",Škofja Loka,5.63,2.94
+
+2284,Pizzeria Fontana,"Dalmatinova ulica 2, 8270 Krško",Krško,7.0,4.31
+
+2286,"Restavracija,picerija, špageterija ADRENALINA","Pesje 30, 8270 Krško",Krško,6.33,3.64
+
+2302,Okrepčevalnica Šumi,"Kardeljeva ploščad 5, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2308,Pizzeria Briksen,"Ljubljanska cesta 5, 4260 Bled",Bled,7.0,4.31
+
+2311,Okrepčevalnica Ribca,"Adamič Lundrovo nabrežje 1, 1000 Ljubljana",Ljubljana,6.0,3.31
+
+2325,Q Slovenska,"Slovenska 9, 2000 Maribor",Maribor,6.9,4.21
+
+2326,Restavracija Sarajevskih jedi Valter Kranj,"Cesta 1.maja 1a, 4000 Kranj",Kranj,4.93,2.24
+
+2327,Wok mix okrepčevalnica,"Vetrinjska ulica 15, 2000 Maribor",Maribor,5.33,2.64
+
+2329,Kavarna in slaščičarna Rendez - Vous,"Oprešnikova 28, 4000 Kranj",Kranj,4.9,2.21
+
+2330,Kavarna in slaščičarna Carniola,"Gregorčičeva 2, 4000 Kranj",Kranj,4.9,2.21
+
+2331,Loving Hut,"Gosposvetska cesta 43a, 2000 Maribor",Maribor,5.93,3.24
+
+2334,Okrepčevalnica Villa Monde,"Spuhlja 32, 2250 Ptuj",Ptuj,5.3,2.61
+
+2336,Takos dos,"Pobreška cesta 18, 2000 Maribor",Maribor,7.0,4.31
+
+2337,Takos,"Mesarski prehod 3, 2000 Maribor",Maribor,6.2,3.51
+
+2343,Restavracija in pivnica Zvezda,"Trg zmage 8, 9000 Murska Sobota",Murska Sobota,5.3,2.61
+
+2346,Gostilna pod Škalcami - DOSTAVA,"Oplotniška cesta 5, 3210 Slovenske Konjice",Slovenske Konjice,3.63,0.94
+
+2347,Kavarna in sendvičarna Feri,"Smetanova ulica 17, 2000 Maribor",Maribor,3.13,0.44
+
+2358,HOT HORSE - BTC,"Šmartinska cesta 152, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+2359,HOT HORSE - Tivoli,"Celovška cesta 25, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+2360,Okrepčevalnica MM PANDA,"Koroška cesta 9, 2000 Maribor",Maribor,4.63,1.94
+
+2366,Restavracija 123 MC Nova Gorica,"Industrijska cesta 6, 5000 Nova Gorica",Nova Gorica,5.69,3.0
+
+2367,Restavracija 123 MC Ljubjana,"Cesta Ljubljanske brigade 33, 1000 Ljubljana",Ljubljana,5.69,3.0
+
+2375,Pizzeria Parma,"Trg republike 2, 1000 Ljubljana",Ljubljana,6.43,3.74
+
+2389,Subway,"Dunajska cesta 115a, 1000 Ljubljana",Ljubljana,4.13,1.44
+
+2391,Okrepčevalnica &quot;Riviera&quot;,"Trubarjeva cesta 36, 1000 Ljubljana",Ljubljana,5.23,2.54
+
+2396,Kavarna NUK,"Turjaška 1, 1000 Ljubljana",Ljubljana,5.43,2.74
+
+2401,Loving Hut Ljubjana Center,"Trg OF 14, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+2405,Restavracija City,"Trg Matije Gubca 3, 8270 Krško",Krško,6.4,3.71
+
+2430,Hit wok,"Čopova 4, 1000 Ljubljana",Ljubljana,5.2,2.51
+
+2432,Okrepčevalnica Novak,"Koštialova 1, 8000 Novo mesto",Novo mesto,6.0,3.31
+
+2446,Kitajska restavracija Šang Hai,"Delavska ulica 11, 4270 Jesenice",Jesenice,5.9,3.21
+
+2471,Bowling center Strike,"Špelina ulica 17a, 2000 Maribor",Maribor,5.5,2.81
+
+2475,Restavracija Kolodvorska,"Cesta talcev 37a, 3320 Velenje",Velenje,6.0,3.31
+
+2478,Mehiška restavracija Cantina Maria,"Ulica Jake Platiše 17, 4000 Kranj",Kranj,5.43,2.74
+
+2479,Pizzeria Da noi fast food,"Ulica Eve Lovše 1, 2000 Maribor",Maribor,3.23,0.54
+
+2480,Oštarija Pizzeria Da Noi,"Ulica Eve Lovše 1, 2000 Maribor",Maribor,5.8,3.11
+
+2487,Hotel Opara,"Goliev trg 13, 8210 Trebnje",Trebnje,6.13,3.44
+
+2488,Balkan Express,"Šmartinska 152 g, 1000 Ljubljana",Ljubljana,6.5,3.81
+
+2498,Trattoria Padrino,"Žitna ulica 12, 2000 Maribor",Maribor,6.13,3.44
+
+2501,Restavracija Ancora,"Jurčičeva ulica 7, 2000 Maribor",Maribor,6.33,3.64
+
+2504,Picerija Verona,"Opekarniška cesta 9, 3000 Celje",Celje,5.63,2.94
+
+2505,Picerija Verona - DOSTAVA,"Opekarniška cesta 9, 3000 Celje",Celje,6.63,3.94
+
+2507,Picerija Bonitas,"Celjska cesta 7, 3310 Žalec",Žalec,5.9,3.21
+
+2513,Gostilnica &amp; picerija Pobreški hram,"Osojnikova 20a, 2000 Maribor",Maribor,6.93,4.24
+
+2521,"Fakulteta za elektrotehniko, Menza FE","Tržaška cesta 25, 1000 Ljubljana",Ljubljana,5.6,2.91
+
+2523,DIFOOD-eat good,"Gortanova 21, 1000 Ljubljana",Ljubljana,4.43,1.74
+
+2525,HALO KATRA,"Njegoševa 6K, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2527,Restavracija Brejk,"Dunajska cesta 22, 1000 Ljubljana",Ljubljana,6.53,3.84
+
+2528,Restavracija 123 Mega center 2,"Verovškova ulica 55a, 1000 Ljubljana",Ljubljana,5.69,3.0
+
+2529,Restavracija 123 FRI in FKKT,"Večna pot 113, 1000 Ljubljana",Ljubljana,4.89,2.2
+
+2531,Restavracija 123 Mercator Dunajska,"Dunajska cesta 107, 1000 Ljubljana",Ljubljana,5.69,3.0
+
+2533,K16,"Aškrčeva 2, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2535,ŽITO Ljublana železniška (kolodvor),"Trg OF 7, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2542,Mlečna restavracija - DOSTAVA,"Maistrov trg 13, 4000 Kranj",Kranj,5.9,3.21
+
+2543,Gostilna Pod Škalcami,"Oplotniška cesta 5, 3210 Slovenske Konjice",Slovenske Konjice,3.63,0.94
+
+2547,Gostilna Lužnik,"Ormoška cesta 18, 2250 Ptuj",Ptuj,5.03,2.34
+
+2549,Fastfood Ajda,"Trg OF 13, 1000 Ljubljana",Ljubljana,4.73,2.04
+
+2551,Picerija ERA,"Pod Trško goro 83, 8000 Novo mesto",Novo mesto,5.8,3.11
+
+2552,Samopostrežna restavracija Dobra hiša,"Stegne 11a, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2565,Podmornica,"Kardeljeva ploščad 17, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+2569,Okrepčevalnica Stari Gril,"Glavni trg 5, 2000 Maribor",Maribor,5.43,2.74
+
+2581,KAPITAL,"Kardeljeva ploščad , 1000 Ljubljana",Ljubljana,5.33,2.64
+
+2589,Fari&#39;s Delice,"Miklošičeva 34, 1000 Ljubljana",Ljubljana,5.6,2.91
+
+2591,Garač - Restavracija &quot;M&quot;,"Šolska cesta 2, 4220 Škofja Loka",Škofja Loka,5.33,2.64
+
+2594,Gostilna JAKA,"Dolenjska cesta 103, 1000 Ljubljana",Ljubljana,6.2,3.51
+
+2595,SALAMON - dostava,"Dolenjska cesta 103, 1000 Ljubljana",Ljubljana,6.8,4.11
+
+2596,Restavracija šolski center Aškerčeva,"Aškerčeva 1, 1000 Ljubljana",Ljubljana,4.5,1.81
+
+2597,MEDITERRANEO,"Ciril Metodov trg 16, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2599,VOLTA,"Tržaška cesta 18, 1000 Ljubljana",Ljubljana,5.63,2.94
+
+2601,LA CANTINA,"Ulica Staneta Žagarja 2b, 4240 Radovljica",Radovljica,6.0,3.31
+
+2619,Restavracija ORIENT,"Taborska ulica 12, 2000 Maribor",Maribor,5.73,3.04
+
+2623,PE Dijaški dom Celje,"Ljubljanska cesta 21, 3000 Celje",Celje,5.17,2.48
+
+2624,Hotel Celeia,"Mariborska cesta 3, 3000 Celje",Celje,6.13,3.44
+
+2633,Slaščičarna in picerija AJDOVŠČINA,"Goriška cesta 11, 5270 Ajdovščina",Ajdovščina,6.0,3.31
+
+2635,Kitajska restavracija Dva zmaja,"Kersnikova 31, 3000 Celje",Celje,5.6,2.91
+
+2636,Pizzerija VERDI,"Dravska ulica 8, 2000 Maribor",Maribor,5.2,2.51
+
+2638,Karantanija,"Drulovka 40, 4000 Kranj",Kranj,5.03,2.34
+
+2640,London Street Food,"Stossmayerjeva ulica 26, 2000 Maribor",Maribor,6.03,3.34
+
+2641,Splošna bolnišnica Izola,"Polje 40, 6310 Izola/Isola",Izola/Isola,5.0,2.31
+
+2642,Lunch box,"Gosposvetska cesta 19, 2000 Maribor",Maribor,3.13,0.44
+
+2643,Fast food MAGIC,"Pristaniška ulica2, 6000 Koper/Capodistria",Koper/Capodistria,4.63,1.94
+
+2644,Kitajska restavracija AZIJA,"Gosposvetska ulica 1, 4000 Kranj",Kranj,5.83,3.14
+
+2648,ME GUSTA,"Jezdarska ulica 8b, 2000 Maribor",Maribor,3.13,0.44
+
+2649,Restavracija McDonalds - Citycenter,"Mariborska cesta 100, 3000 Celje",Celje,4.7,2.01
+
+2650,Gosposvetska,"Gosposvetska cesta 83, 2000 Maribor",Maribor,3.13,0.44
+
+2651,Q TABOR,"Gorkega ulica 45, 2000 Maribor",Maribor,6.9,4.21
+
+2652,Okrepčevalnica IZUM,"Prešernova 17, 2000 Maribor",Maribor,5.5,2.81
+
+2660,Pizzeria OLIVA - dostava,"Dečkova cesta 41, 3000 Celje",Celje,6.63,3.94
+
+2661,Pizzeria OLIVA,"Dečkova cesta 41, 3000 Celje",Celje,5.63,2.94
+
+2662,Un momento-pizza time,"Pobreška cesta 18, 2000 Maribor",Maribor,3.43,0.74
+
+2664,V parku,"Rimska cesta 13, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2668,Hiša pod gradom,"Streliška ulica 10, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2686,Čevabdžinica Sarajevo 84,"Tomažičev trg 1, 6000 Koper/Capodistria",Koper/Capodistria,6.5,3.81
+
+2691,Mornarček ribja kantina - restavracija,"Pistaniška ulica 2, 6000 Koper/Capodistria",Koper/Capodistria,6.5,3.81
+
+2698,Restavracija Zlata sreča,"Metelkova ulica 29, 2000 Maribor",Maribor,5.13,2.44
+
+2699,Bistro Tanja- DOSTAVA,"Cankarjeva ulica 58, 9000 Murska Sobota",Murska Sobota,6.0,3.31
+
+2702,Fresh 4 life Vetrinjska,"Vetrinjska ulica 9, 2000 Maribor",Maribor,2.69,0.0
+
+2703,Kitajska restavracija Azija,"Ptujska cesta 131 , 2000 Maribor",Maribor,6.13,3.44
+
+2705,Oštarija Pizzeria Da Noi - DOSTAVA,"Ulica Eve Lovše 1, 2000 Maribor",Maribor,7.0,4.31
+
+2707,CANTINA MEXICANA KNAFELJ,"Knafljev prehod 2, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2708,CANTINA MEXICANA RUDNIK,"Jurčkova cesta 223, 1000 Ljubljana",Ljubljana,6.83,4.14
+
+2709,CUTTY FOOD CORNER,"Knafljev prehod 1, 1000 Ljubljana",Ljubljana,4.0,1.31
+
+2711,KAMPUS PIZZA,"Pivovarniška ulica 6, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+2714,Subway,"Slovenska cesta 1, 1000 Ljubljana",Ljubljana,4.13,1.44
+
+2721,Restavracija Modri kvadrat,"Davčna ulica 1, 1000 Ljubljana",Ljubljana,6.0,3.31
+
+2723,Fajn Fuud,"Poljanska cesta 22, 1000 Ljubljana",Ljubljana,5.43,2.74
+
+2724,Fajn Fuud Pizza,"Poljanska cesta 22, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2725,No. 12 - Gril &amp; Kebab,"Čopova 12, 1000 Ljubljana",Ljubljana,5.2,2.51
+
+2726,LIPCA - INDEKS,"Borštnikov trg 3a, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2729,Okrepčevalnica Pekarna Dobrot,"Kotnikova 5, 1000 Ljubljana",Ljubljana,4.03,1.34
+
+2732,Okrepčevalnica - Diner kino gledališče Bežigrad,"Linhartova 11, 1000 Ljubljana",Ljubljana,5.93,3.24
+
+2736,Pizzeria Chianti,"Rozmanova ulica 25, 8000 Novo mesto",Novo mesto,6.0,3.31
+
+2739,Roza slon,"Trg OF 14, 1000 Ljubljana",Ljubljana,5.53,2.84
+
+2748,Azijska restavracija Tloft,"Gosposvetska cesta 4, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+2753,Prehrana Palača SMELT,"Dunajska 160, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+2754,Picerija Štangelj,"UlicaIvana Roba 56, 8000 Novo mesto",Novo mesto,6.13,3.44
+
+2757,Okrepčevalnica TimeOut,"Trg OF 10, 1000 Ljubljana",Ljubljana,3.83,1.14
+
+2759,Restavracija McDonalds - Ptuj,"Ormoška cesta 3, 2250 Ptuj",Ptuj,4.7,2.01
+
+2761,Kitajska restavracija Zlata srna,"Ulica Pohorskega bataljona 14, 2000 Maribor",Maribor,5.33,2.64
+
+2762,Kitajska restavracija Zlata srna - DOSTAVA,"Ulica Pohorskega bataljona 14, 2000 Maribor",Maribor,6.13,3.44
+
+2765,Noomm,"Tyrševa 3, 2000 Maribor",Maribor,6.23,3.54
+
+2768,Restavracija Mr. FALAFEL,"Gosposka ulica 30, 2000 Maribor",Maribor,6.13,3.44
+
+2771,ŽITO Ljubljana Bavarski dvor,"Slovenska cesta 58, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2772,Kitajsko mesto - dostava,"Slamnikarjeva 1, 1230 Domžale",Domžale,6.5,3.81
+
+2775,Kitajska palača - DOSTAVA,"Focheva ulica 41, 2000 Maribor",Maribor,6.53,3.84
+
+2776,Okrepčevalnica ŠIŠ,"Usnjarska ulica 5, 2000 Maribor",Maribor,5.92,3.23
+
+2778,Halo Pinki,"Pod ježami 14, 1000 Ljubljana",Ljubljana,5.93,3.24
+
+2781,Samopostrežna restavracija Stolpič,"Mariborska cesta 7, 3000 Celje",Celje,5.5,2.81
+
+2784,Pizzerija in špageterija BUF Kranj,"Stara cesta 25b, 4000 Kranj",Kranj,6.13,3.44
+
+2786,Trattoria Portofino,"Tržaška cesta 65, 2000 Maribor",Maribor,5.63,2.94
+
+2815,McDonald&#39;s restavracija Nova Gorica,"Vojkova cesta 111, 5000 Nova Gorica",Nova Gorica,4.7,2.01
+
+2817,Dijaški dom Portorož,"Sončna pot 20, 6320 Portorož/Portorose",Portorož/Portorose,5.53,2.84
+
+2821,BISTRO VILLA DOMUS,"Vojkovo nabrežje 12, 6000 Koper/Capodistria",Koper/Capodistria,5.79,3.1
+
+2826,Menza FS,"Aškerčeva cesta 6, 1000 Ljubljana",Ljubljana,5.6,2.91
+
+2828,Namaste Indian Express,"Trubarjeva ulica 31, 1000 Ljubljana",Ljubljana,5.93,3.24
+
+2829,Domača pekarna,"Dunajska cesta 113, 1000 Ljubljana",Ljubljana,3.33,0.64
+
+2830,EKSPERIMENT restavracija &amp; bar,"Slovenska cesta 10, 1000 Ljubljana",Ljubljana,6.93,4.24
+
+2832,Kavarna BORŠTNIK,"Borštnikov trg 2, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2833,Restavracija KOTNIKOVA,"Kotnikova 28, 1000 Ljubljana",Ljubljana,5.53,2.84
+
+2834,Gostilnica in pivnica Katrca,"Rožna dolina, Cesta I. 26A, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+2839,Kavarna STRIT,"Zdravstevna  pot 5, 1000 Ljubljana",Ljubljana,4.53,1.84
+
+2841,Hong Xiang,"Cesta v mestni log 55, 1000 Ljubljana",Ljubljana,5.63,2.94
+
+2842,Hong Xiang - dostava,"Cesta v mestni log 55, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+2843,Restavracija GIG,"Mala ulica 5, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2844,Leteča zvezda,"Kvedrova cesta 5a, 1000 Ljubljana",Ljubljana,5.63,2.94
+
+2846,HotSpot bar&amp;bistro,"Kardeljeva ploščad 17, 1000 Ljubljana",Ljubljana,5.8,3.11
+
+2847,HotSpot Center bar&amp;bistro,"Nazorjeva 6, 1000 Ljubljana",Ljubljana,5.8,3.11
+
+2849,Forum,"Petkovškovo nabrežje 25, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2854,Restavracija Tartuf &quot;Center&quot;,"Mali trg 3a, 1000 Ljubljana",Ljubljana,6.33,3.64
+
+2859,Roza slon Bežigrad,"Dunajska 115, 1000 Ljubljana",Ljubljana,5.53,2.84
+
+2863,Papagayo,"Gosposka ulica 6, 2000 Maribor",Maribor,5.63,2.94
+
+2866,McDonald&#39;s restavracija - Kranj Drive,"Cesta Boštjana Hladnika 7, 4000 Kranj",Kranj,4.7,2.01
+
+2868,McDonald&#39;s restavracija - Celje Drive,"Mariborska cesta 164, 3000 Celje",Celje,4.7,2.01
+
+2869,Restavracija  Amfora,"Osojnikova 12, 2250 Ptuj",Ptuj,5.33,2.64
+
+2870,Restavracija Slorest Vičava,"Vičava 1, 2250 Ptuj",Ptuj,4.55,1.86
+
+2872,Bruc bar,"Razlagova 9, 2000 Maribor",Maribor,4.13,1.44
+
+2875,MC PANDA,"Ulica Vita Kraigherja 5, 2000 Maribor",Maribor,3.13,0.44
+
+2880,TO JE TO balkan žar,"Kersnikova 6, 1000 Ljubljana",Ljubljana,6.21,3.52
+
+2882,"UTRIP - bar, bistro in kavarna","Šmartinska cesta 3, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2884,Restavracija sarajevskih jedi Valter Jesenice,"Cesta Maršala Tita 106, 4270 Jesenice",Jesenice,4.93,2.24
+
+2886,BABICA,"Tržaška cesta 200, 1000 Ljubljana",Ljubljana,6.99,4.3
+
+2887,Restavracija sarajevskij jedi Valter Radovljica,"Cankarjeva 66, 4240 Radovljica",Radovljica,4.93,2.24
+
+2915,Restavracija TR3,"Trg repubilke 3, 1000 Ljubljana",Ljubljana,6.5,3.81
+
+2918,Restavracija Snežinka,"Šmartinska cesta 132, 1000 Ljubljana",Ljubljana,6.5,3.81
+
+2919,Spar partner Nama,"Tomšičeva 2, 1000 Ljubljana",Ljubljana,5.0,2.31
+
+2921,Skuhna,"Trubarjeva 56, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+2924,AULA Cofe,"Kardeljeva ploščad 5, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2926,BIGDIL Cofe,"Kardeljeva ploščad 17, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2927,Picerija Lavanda,"Otoška cesta 5, 8000 Novo mesto",Novo mesto,5.8,3.11
+
+2930,Dežela okusov,"Eipprova 11, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2931,Bistro Suwon,"Dunajska 101, 1000 Ljubljana",Ljubljana,6.0,3.31
+
+2932,B2 - dostava,"Tržaška cesta 200, 1000 Ljubljana",Ljubljana,6.99,4.3
+
+2933,XIAO FENG,"Bazoviška ulica 6, 5000 Nova Gorica",Nova Gorica,5.93,3.24
+
+2935,Okrepčevalnica BUREK,"Poljanska cesta 7, 1000 Ljubljana",Ljubljana,3.83,1.14
+
+2943,Gostilna Jerinček,"Jurčkova cesta 99, 1000 Ljubljana",Ljubljana,5.13,2.44
+
+2944,Okrepčevalnica Ajda,"Ajdovščina 4, 1000 Ljubljana",Ljubljana,5.53,2.84
+
+2947,Gostilna Čuk,"Cesta zmage 34, 1410 Zagorje ob Savi",Zagorje ob Savi,6.0,3.31
+
+2949,Gostilna Bučar,"Šmihel 14, 8000 Novo mesto",Novo mesto,6.33,3.64
+
+2950,Kitajska restavracija Han,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,6.3,3.61
+
+2951,DAS IST WALTER Ljubljana Center,"Borštnikov trg 3, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+2952,Zbornica bar in žar,"Rimska cesta 13, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+2953,Restavracija Peking,"Gregorčičeva ulica 19, 2000 Maribor",Maribor,4.69,2.0
+
+2955,Restavraciaj Amfora - DOSTAVA,"Osojnikova 12, 2250 Ptuj",Ptuj,6.28,3.59
+
+2956,Žito Leon Štukelj Maribor,"Trg Leona Štuklja 1, 2000 Maribor",Maribor,2.69,0.0
+
+2958,Meating pub &amp; restavracija,"Mlinska ulica 2, 2000 Maribor",Maribor,6.03,3.34
+
+2959,Restavracija Rutar Maribor,"Tržaška cesta 67, 2000 Maribor",Maribor,6.13,3.44
+
+2960,Taverna Sicilia,"Ulica Heroja Nandeta 31, 2000 Maribor",Maribor,6.2,3.51
+
+2961,Taverna Sicilia - DOSTAVA,"Ulica Heroja Nandeta 31, 2000 Maribor",Maribor,6.2,3.51
+
+2968,Gostinske storitve Michel Toš s.p.,"Slivniška cesta 6, 2311 Hoče",Hoče,5.13,2.44
+
+2969,Gostinske storitve Michel Toš s.p. - DOSTAVA,"Slivniška cesta 6, 2311 Hoče",Hoče,5.63,2.94
+
+2970,Picerija restavracija Moriccu,"Meljska cesta 39, 2000 Maribor",Maribor,5.5,2.81
+
+2975,Maxi Ljubljana,"Trg republike 1, 1000 Ljubljana",Ljubljana,4.99,2.3
+
+2977,Hipermarket Ljubljana Šiška,"Cesta Ljubljanske brigade 33, 1000 Ljubljana",Ljubljana,4.99,2.3
+
+2982,Gostilna in pizzeria Jurček,"Jurčkova cesta 7, 1000 Ljubljana",Ljubljana,6.0,3.31
+
+2983,PREHRANA Bar VO-KA,"Vodovodna cesta 90, 1000 Ljubljana",Ljubljana,6.13,3.44
+
+2988,Subway BTC,"Šmartinska cesta 152, 1000 Ljubljana",Ljubljana,4.13,1.44
+
+2992,RESDOBR,"Cankarjeva cesta 6, 1000 Ljubljana",Ljubljana,6.2,3.51
+
+2993,Znanstvena kavarna Mafija,"Jadranska ulica 21, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2994,Ljudska kuhinja,"Zaloška cesta 42, 1000 Ljubljana",Ljubljana,4.9,2.21
+
+2995,Meta &amp; Bazilika,"Rimska cesta 25a, 1000 Ljubljana",Ljubljana,6.63,3.94
+
+2996,FALAFEL HIŠA-DOSTAVA,"Slovenska 51, 1000 Ljubljana",Ljubljana,6.33,3.64
+
+2997,FALAFEL HIŠA,"Slovenska 51, 1000 Ljubljana",Ljubljana,2.69,0.0
+
+2998,Tasty snacks,"Cafova ulica 4, 2000 Maribor",Maribor,2.69,0.0
+
+3000,Balkan Ekspress-dostava,"Šmartinska 152g, 1000 Ljubljana",Ljubljana,7.0,4.31
+
+3001,Okrepčevalnica Meranovo,"Pivola 10, 2311 Hoče",Hoče,4.63,1.94
+
+3002,Village snacks,"Turnerjeva ulica 17, 2000 Maribor",Maribor,3.13,0.44
+
+3003,Okrepčevalnica Noodle box,"Ulica Vita Kraigherja 5, 2000 Maribor",Maribor,5.13,2.44
+
+3005,Okrepčevalnica Azzurro,"Nove Fužine 43, 1000 Ljubljana",Ljubljana,5.63,2.94
+

@@ -1,1281 +1,2562 @@
-restavracija,lastnost
-1011,Dostop za invalide
-1011,Kosilo
-1011,Solata
-1011,Vegetarijansko
-1013,Dostop za invalide
-1013,Kosilo
-1013,Nov lokal
-1013,Solata
-1013,Vegetarijansko
-1023,Dostop za invalide
-1023,Dostop za invalide (WC)
-1023,Kosilo
-1023,Solata
-1023,Vegetarijansko
-1023,Študentske ugodnosti
-1025,Dostop za invalide
-1025,Dostop za invalide (WC)
-1025,Kosilo
-1025,Solata
-1025,Vegetarijansko
-1025,Študentske ugodnosti
-1031,Dostop za invalide
-1031,Kosilo
-1031,Solata
-1031,Vegetarijansko
-1090,Dostop za invalide (WC)
-1090,Kosilo
-1090,Nov lokal
-1090,Vegetarijansko
-1091,Kosilo
-1091,Nov lokal
-1091,Solata
-1091,Vegetarijansko
-1091,Študentske ugodnosti
-1100,Dostop za invalide (WC)
-1100,Kosilo
-1100,Solata
-1100,Vegetarijansko
-1101,Dostop za invalide (WC)
-1101,Kosilo
-1101,Solata
-1101,Vegetarijansko
-1102,Dostop za invalide (WC)
-1102,Kosilo
-1102,Solata
-1102,Vegetarijansko
-1103,Dostop za invalide (WC)
-1103,Kosilo
-1103,Študentske ugodnosti
-1110,Dostop za invalide (WC)
-1110,Kosilo
-1110,Vegetarijansko
-1110,Študentske ugodnosti
-1123,Dostop za invalide
-1123,Kosilo
-1123,Solata
-1123,Vegetarijansko
-1124,Dostava
-1124,Kosilo
-1124,Vegetarijansko
-1130,Dostop za invalide (WC)
-1130,Kosilo
-1130,Vegetarijansko
-1145,Dostop za invalide (WC)
-1145,Kosilo
-1145,Solata
-1145,Vegetarijansko
-1161,Kosilo
-1161,Vegetarijansko
-1164,Dostava
-1164,Kosilo
-1164,Vegetarijansko
-1164,Študentske ugodnosti
-1165,Kosilo
-1165,Vegetarijansko
-1176,Dostop za invalide
-1176,Pizza
-1176,Solata
-1179,Dostop za invalide (WC)
-1179,Kosilo
-1179,Vegetarijansko
-1182,Dostop za invalide (WC)
-1182,Kosilo
-1182,Vegetarijansko
-1184,Dostop za invalide (WC)
-1184,Kosilo
-1184,Vegetarijansko
-1185,Dostop za invalide (WC)
-1185,Kosilo
-1185,Vegetarijansko
-1188,Dostop za invalide
-1188,Kosilo
-1188,Nov lokal
-1188,Solata
-1188,Vegetarijansko
-1188,Študentske ugodnosti
-1189,Dostava
-1189,Kosilo
-1189,Nov lokal
-1189,Vegetarijansko
-1190,Dostop za invalide
-1190,Kosilo
-1190,Vegetarijansko
-1194,Dostop za invalide (WC)
-1194,Kosilo
-1194,Solata
-1194,Vegetarijansko
-1194,Študentske ugodnosti
-1195,Dostop za invalide (WC)
-1195,Kosilo
-1195,Solata
-1195,Vegetarijansko
-1195,Študentske ugodnosti
-1197,Dostop za invalide (WC)
-1197,Kosilo
-1197,Solata
-1197,Vegetarijansko
-1197,Študentske ugodnosti
-1198,Dostop za invalide (WC)
-1198,Kosilo
-1198,Solata
-1198,Vegetarijansko
-1198,Študentske ugodnosti
-1199,Dostop za invalide (WC)
-1199,Kosilo
-1199,Solata
-1199,Vegetarijansko
-1199,Študentske ugodnosti
-1214,Kosilo
-1214,Nov lokal
-1214,Vegetarijansko
-1224,Dostop za invalide (WC)
-1224,Kosilo
-1224,Vegetarijansko
-1232,Kosilo
-1232,Vegetarijansko
-1234,Dostop za invalide
-1234,Kosilo
-1234,Solata
-1237,Kosilo
-1237,Nov lokal
-1237,Vegetarijansko
-1237,Študentske ugodnosti
-1238,Dostava
-1238,Kosilo
-1238,Nov lokal
-1238,Vegetarijansko
-1238,Študentske ugodnosti
-1262,Dostop za invalide
-1262,Kosilo
-1262,Vegetarijansko
-1265,Dostop za invalide (WC)
-1265,Kosilo
-1265,Nov lokal
-1265,Solata
-1265,Vegetarijansko
-1266,Dostop za invalide
-1266,Pizza
-1266,Vegetarijansko
-1298,Kosilo
-1298,Nov lokal
-1298,Vegetarijansko
-1305,Dostop za invalide
-1305,Kosilo
-1305,Vegetarijansko
-1314,Dostop za invalide
-1314,Kosilo
-1314,Nov lokal
-1314,Solata
-1314,Vegetarijansko
-1321,Dostop za invalide
-1321,Kosilo
-1321,Vegetarijansko
-1334,Dostop za invalide
-1334,Pizza
-1335,Pizza
-1336,Dostop za invalide
-1336,Kosilo
-1336,Nov lokal
-1336,Solata
-1336,Vegetarijansko
-1339,Kosilo
-1339,Vegetarijansko
-1341,Dostop za invalide (WC)
-1341,Kosilo
-1341,Vegetarijansko
-1342,Dostop za invalide (WC)
-1342,Kosilo
-1342,Vegetarijansko
-1346,Dostop za invalide
-1346,Kosilo
-1346,Vegetarijansko
-1351,Dostop za invalide
-1351,Kosilo
-1351,Nov lokal
-1351,Vegetarijansko
-1360,Dostop za invalide
-1360,Kosilo
-1360,Vegetarijansko
-1366,Dostop za invalide (WC)
-1366,Kosilo
-1366,Solata
-1366,Vegetarijansko
-1367,Dostop za invalide
-1367,Kosilo
-1367,Nov lokal
-1367,Solata
-1367,Vegetarijansko
-1369,Dostop za invalide (WC)
-1369,Kosilo
-1369,Solata
-1369,Vegetarijansko
-1369,Študentske ugodnosti
-1370,Dostop za invalide (WC)
-1370,Kosilo
-1370,Solata
-1370,Vegetarijansko
-1370,Študentske ugodnosti
-1375,Dostop za invalide
-1375,Kosilo
-1375,Vegetarijansko
-1377,Kosilo
-1377,Vegetarijansko
-1378,Dostop za invalide (WC)
-1378,Kosilo
-1378,Vegetarijansko
-1379,Dostop za invalide (WC)
-1379,Kosilo
-1379,Vegetarijansko
-1380,Dostop za invalide (WC)
-1380,Kosilo
-1380,Vegetarijansko
-1381,Dostop za invalide (WC)
-1381,Kosilo
-1381,Vegetarijansko
-1382,Dostop za invalide
-1382,Kosilo
-1382,Nov lokal
-1382,Vegetarijansko
-1386,Kosilo
-1386,Solata
-1386,Vegetarijansko
-1402,Celiakiji prijazni obroki
-1402,Kosilo
-1402,Solata
-1402,Vegetarijansko
-1403,Dostop za invalide
-1403,Kosilo
-1403,Vegetarijansko
-1407,Dostop za invalide (WC)
-1407,Kosilo
-1407,Solata
-1407,Vegetarijansko
-1413,Dostop za invalide (WC)
-1413,Kosilo
-1413,Vegetarijansko
-1415,Kosilo
-1415,Vegetarijansko
-1421,Kosilo
-1421,Nov lokal
-1421,Solata
-1421,Vegetarijansko
-1421,Študentske ugodnosti
-1422,Kosilo
-1422,Nov lokal
-1422,Solata
-1422,Vegetarijansko
-1422,Študentske ugodnosti
-1423,Dostop za invalide
-1423,Kosilo
-1423,Vegetarijansko
-1424,Kosilo
-1424,Nov lokal
-1424,Solata
-1424,Vegetarijansko
-1429,Dostop za invalide
-1429,Kosilo
-1429,Nov lokal
-1429,Vegetarijansko
-1432,Dostop za invalide
-1432,Kosilo
-1432,Vegetarijansko
-1441,Dostop za invalide
-1441,Pizza
-1441,Študentske ugodnosti
-1465,Dostop za invalide
-1465,Kosilo
-1465,Nov lokal
-1465,Solata
-1465,Vegetarijansko
-1466,Dostop za invalide
-1466,Kosilo
-1466,Solata
-1466,Vegetarijansko
-1466,Študentske ugodnosti
-1471,Kosilo
-1471,Vegetarijansko
-1474,Dostop za invalide (WC)
-1474,Kosilo
-1474,Nov lokal
-1474,Vegetarijansko
-1477,Dostop za invalide
-1477,Nov lokal
-1477,Pizza
-1478,Dostop za invalide
-1478,Kosilo
-1478,Vegetarijansko
-1485,Kosilo
-1485,Solata
-1485,Vegetarijansko
-1500,Kosilo
-1500,Nov lokal
-1500,Solata
-1500,Vegetarijansko
-1501,Dostop za invalide (WC)
-1501,Kosilo
-1501,Nov lokal
-1501,Solata
-1501,Vegetarijansko
-1502,Dostop za invalide (WC)
-1502,Kosilo
-1502,Nov lokal
-1502,Solata
-1502,Vegetarijansko
-1530,Kosilo
-1530,Nov lokal
-1530,Solata
-1530,Vegetarijansko
-1530,Študentske ugodnosti
-1532,Kosilo
-1532,Nov lokal
-1532,Solata
-1532,Vegetarijansko
-1532,Študentske ugodnosti
-1536,Dostop za invalide (WC)
-1536,Kosilo
-1536,Vegetarijansko
-1541,Kosilo
-1541,Nov lokal
-1541,Solata
-1541,Vegetarijansko
-1564,Dostop za invalide
-1564,Kosilo
-1564,Vegetarijansko
-1576,Dostop za invalide (WC)
-1576,Kosilo
-1576,Vegetarijansko
-1578,Kosilo
-1578,Vegetarijansko
-1583,Kosilo
-1583,Nov lokal
-1583,Solata
-1583,Vegetarijansko
-1583,Študentske ugodnosti
-1597,Dostop za invalide (WC)
-1597,Kosilo
-1597,Vegetarijansko
-1610,Kosilo
-1610,Vegetarijansko
-1610,Študentske ugodnosti
-1615,Dostop za invalide
-1615,Kosilo
-1615,Nov lokal
-1615,Vegetarijansko
-1615,Študentske ugodnosti
-1626,Dostop za invalide (WC)
-1626,Kosilo
-1626,Solata
-1627,Dostop za invalide (WC)
-1627,Kosilo
-1627,Solata
-1628,Celiakiji prijazni obroki
-1628,Dostop za invalide (WC)
-1628,Kosilo
-1639,Dostop za invalide
-1639,Kosilo
-1639,Nov lokal
-1639,Vegetarijansko
-1639,Študentske ugodnosti
-1645,Dostop za invalide
-1645,Kosilo
-1645,Vegetarijansko
-1668,Kosilo
-1668,Nov lokal
-1668,Vegetarijansko
-1673,Dostava
-1673,Kosilo
-1673,Vegetarijansko
-1683,Dostop za invalide
-1683,Kosilo
-1683,Vegetarijansko
-1711,Dostop za invalide
-1711,Kosilo
-1711,Solata
-1711,Vegetarijansko
-1716,Dostop za invalide
-1716,Kosilo
-1716,Vegetarijansko
-1717,Dostava
-1717,Kosilo
-1717,Vegetarijansko
-1718,Dostava
-1718,Kosilo
-1718,Vegetarijansko
-1768,Dostop za invalide (WC)
-1768,Kosilo
-1768,Nov lokal
-1768,Solata
-1768,Vegetarijansko
-1772,Dostop za invalide (WC)
-1772,Kosilo
-1772,Vegetarijansko
-1778,Dostop za invalide
-1778,Pizza
-1791,Pizza
-1794,Dostop za invalide
-1794,Kosilo
-1794,Vegetarijansko
-1798,Dostop za invalide
-1798,Kosilo
-1798,Vegetarijansko
-1804,Dostava
-1804,Kosilo
-1804,Vegetarijansko
-1817,Dostop za invalide
-1817,Kosilo
-1817,Nov lokal
-1817,Vegetarijansko
-1823,Dostop za invalide (WC)
-1823,Hitra hrana
-1823,Študentske ugodnosti
-1827,Celiakiji prijazni obroki
-1827,Dostop za invalide
-1827,Pizza
-1827,Vegetarijansko
-1834,Dostop za invalide (WC)
-1834,Kosilo
-1834,Vegetarijansko
-1835,Dostop za invalide (WC)
-1835,Kosilo
-1835,Vegetarijansko
-1838,Dostop za invalide
-1838,Kosilo
-1838,Vegetarijansko
-1847,Dostop za invalide (WC)
-1847,Kosilo
-1847,Solata
-1847,Vegetarijansko
-1849,Dostop za invalide
-1849,Kosilo
-1849,Vegetarijansko
-1860,Dostop za invalide
-1860,Kosilo
-1860,Vegetarijansko
-1861,Dostop za invalide
-1861,Kosilo
-1861,Vegetarijansko
-1865,Dostop za invalide
-1865,Kosilo
-1865,Nov lokal
-1865,Solata
-1865,Vegetarijansko
-1910,Dostop za invalide
-1910,Pizza
-1911,Dostop za invalide
-1911,Kosilo
-1911,Vegetarijansko
-1911,Študentske ugodnosti
-1925,Dostop za invalide
-1925,Pizza
-1925,Vegetarijansko
-1983,Pizza
-1984,Nov lokal
-1984,Pizza
-1988,Dostop za invalide
-1988,Kosilo
-1988,Vegetarijansko
-1994,Dostop za invalide
-1994,Kosilo
-1994,Nov lokal
-1994,Solata
-1999,Dostop za invalide
-1999,Kosilo
-1999,Solata
-1999,Vegetarijansko
-2011,Dostava
-2011,Kosilo
-2011,Vegetarijansko
-2023,Dostop za invalide (WC)
-2023,Kosilo
-2023,Nov lokal
-2023,Vegetarijansko
-2040,Dostop za invalide
-2040,Kosilo
-2040,Vegetarijansko
-2049,Dostop za invalide
-2049,Kosilo
-2049,Vegetarijansko
-2085,Dostop za invalide
-2085,Kosilo
-2085,Vegetarijansko
-2092,Pizza
-2097,Dostop za invalide
-2097,Kosilo
-2097,Solata
-2097,Vegetarijansko
-2098,Dostop za invalide
-2098,Hitra hrana
-2098,Vegetarijansko
-2102,Dostop za invalide (WC)
-2102,Kosilo
-2102,Nov lokal
-2102,Vegetarijansko
-2103,Dostop za invalide (WC)
-2103,Kosilo
-2103,Nov lokal
-2103,Vegetarijansko
-2111,Kosilo
-2111,Nov lokal
-2111,Solata
-2111,Vegetarijansko
-2115,Kosilo
-2115,Solata
-2115,Vegetarijansko
-2116,Dostava
-2116,Kosilo
-2116,Vegetarijansko
-2117,Dostava
-2117,Kosilo
-2117,Vegetarijansko
-2117,Študentske ugodnosti
-2131,Dostop za invalide
-2131,Kosilo
-2131,Vegetarijansko
-2133,Dostop za invalide
-2133,Kosilo
-2133,Nov lokal
-2133,Vegetarijansko
-2133,Študentske ugodnosti
-2145,Dostop za invalide
-2145,Pizza
-2147,Kosilo
-2147,Vegetarijansko
-2152,Dostop za invalide
-2152,Kosilo
-2152,Nov lokal
-2152,Solata
-2152,Vegetarijansko
-2161,Dostop za invalide (WC)
-2161,Kosilo
-2161,Solata
-2161,Vegetarijansko
-2161,Študentske ugodnosti
-2164,Dostop za invalide
-2164,Kosilo
-2164,Vegetarijansko
-2164,Študentske ugodnosti
-2165,Pizza
-2165,Vegetarijansko
-2180,Dostop za invalide (WC)
-2180,Kosilo
-2180,Nov lokal
-2180,Solata
-2180,Vegetarijansko
-2185,Dostop za invalide
-2185,Kosilo
-2185,Vegetarijansko
-2187,Kosilo
-2187,Nov lokal
-2187,Solata
-2187,Vegetarijansko
-2187,Študentske ugodnosti
-2195,Dostop za invalide
-2195,Kosilo
-2195,Vegetarijansko
-2203,Dostop za invalide
-2203,Kosilo
-2203,Vegetarijansko
-2203,Študentske ugodnosti
-2204,Kosilo
-2204,Solata
-2204,Vegetarijansko
-2205,Dostava
-2205,Kosilo
-2205,Vegetarijansko
-2213,Dostop za invalide
-2213,Kosilo
-2213,Nov lokal
-2213,Vegetarijansko
-2213,Študentske ugodnosti
-2229,Kosilo
-2229,Nov lokal
-2229,Solata
-2229,Vegetarijansko
-2234,Kosilo
-2234,Nov lokal
-2243,Dostop za invalide
-2243,Kosilo
-2243,Vegetarijansko
-2243,Študentske ugodnosti
-2247,Kosilo
-2247,Vegetarijansko
-2248,Dostop za invalide (WC)
-2248,Kosilo
-2248,Nov lokal
-2248,Vegetarijansko
-2249,Dostop za invalide
-2249,Kosilo
-2249,Vegetarijansko
-2252,Kosilo
-2252,Vegetarijansko
-2253,Dostop za invalide (WC)
-2253,Kosilo
-2253,Vegetarijansko
-2254,Dostava
-2254,Kosilo
-2254,Vegetarijansko
-2256,Kosilo
-2256,Solata
-2256,Vegetarijansko
-2263,Dostop za invalide (WC)
-2263,Kosilo
-2263,Nov lokal
-2263,Solata
-2263,Vegetarijansko
-2264,Dostop za invalide
-2264,Kosilo
-2264,Vegetarijansko
-2265,Dostava
-2265,Kosilo
-2265,Vegetarijansko
-2270,Dostop za invalide (WC)
-2270,Kosilo
-2270,Vegetarijansko
-2271,Dostop za invalide (WC)
-2271,Kosilo
-2271,Vegetarijansko
-2275,Dostop za invalide
-2275,Kosilo
-2275,Vegetarijansko
-2278,Dostop za invalide (WC)
-2278,Kosilo
-2278,Nov lokal
-2278,Solata
-2278,Vegetarijansko
-2284,Dostop za invalide
-2284,Kosilo
-2284,Solata
-2284,Vegetarijansko
-2286,Kosilo
-2286,Vegetarijansko
-2302,Dostop za invalide
-2302,Hitra hrana
-2302,Nov lokal
-2308,Dostop za invalide (WC)
-2308,Kosilo
-2308,Vegetarijansko
-2311,Dostop za invalide
-2311,Kosilo
-2311,Vegetarijansko
-2325,Dostop za invalide
-2325,Kosilo
-2325,Vegetarijansko
-2326,Kosilo
-2326,Vegetarijansko
-2327,Dostop za invalide (WC)
-2327,Kosilo
-2327,Vegetarijansko
-2329,Kosilo
-2329,Vegetarijansko
-2330,Dostop za invalide
-2330,Kosilo
-2330,Vegetarijansko
-2331,Dostop za invalide
-2331,Kosilo
-2331,Vegetarijansko
-2334,Dostop za invalide
-2334,Kosilo
-2336,Dostop za invalide (WC)
-2336,Kosilo
-2336,Vegetarijansko
-2337,Kosilo
-2337,Vegetarijansko
-2343,Dostop za invalide (WC)
-2343,Kosilo
-2343,Solata
-2343,Vegetarijansko
-2346,Dostava
-2346,Kosilo
-2346,Nov lokal
-2346,Študentske ugodnosti
-2347,Dostop za invalide
-2347,Kosilo
-2347,Nov lokal
-2347,Študentske ugodnosti
-2358,Dostop za invalide
-2358,Kosilo
-2358,Vegetarijansko
-2358,Študentske ugodnosti
-2359,Dostop za invalide
-2359,Kosilo
-2359,Vegetarijansko
-2359,Študentske ugodnosti
-2360,Dostop za invalide
-2360,Pizza
-2360,Solata
-2366,Dostop za invalide (WC)
-2366,Kosilo
-2366,Solata
-2366,Vegetarijansko
-2366,Študentske ugodnosti
-2367,Dostop za invalide (WC)
-2367,Kosilo
-2367,Solata
-2367,Vegetarijansko
-2367,Študentske ugodnosti
-2375,Pizza
-2375,Študentske ugodnosti
-2389,Dostop za invalide
-2389,Kosilo
-2389,Vegetarijansko
-2391,Kosilo
-2391,Vegetarijansko
-2396,Kosilo
-2396,Solata
-2401,Dostop za invalide
-2401,Kosilo
-2401,Solata
-2401,Vegetarijansko
-2405,Dostop za invalide
-2405,Kosilo
-2405,Vegetarijansko
-2430,Kosilo
-2430,Vegetarijansko
-2432,Dostop za invalide
-2432,Kosilo
-2432,Solata
-2446,Dostop za invalide
-2446,Kosilo
-2446,Vegetarijansko
-2471,Dostop za invalide (WC)
-2471,Kosilo
-2471,Vegetarijansko
-2475,Dostop za invalide (WC)
-2475,Kosilo
-2475,Solata
-2475,Vegetarijansko
-2478,Dostop za invalide
-2478,Kosilo
-2478,Solata
-2478,Vegetarijansko
-2479,Dostop za invalide (WC)
-2479,Pizza
-2480,Dostop za invalide (WC)
-2480,Kosilo
-2480,Vegetarijansko
-2487,Dostop za invalide (WC)
-2487,Kosilo
-2487,Vegetarijansko
-2488,Kosilo
-2488,Solata
-2488,Vegetarijansko
-2498,Dostop za invalide
-2498,Kosilo
-2501,Dostop za invalide (WC)
-2501,Kosilo
-2501,Vegetarijansko
-2504,Dostop za invalide
-2504,Kosilo
-2504,Solata
-2504,Vegetarijansko
-2504,Študentske ugodnosti
-2505,Dostava
-2505,Kosilo
-2505,Vegetarijansko
-2505,Študentske ugodnosti
-2507,Kosilo
-2507,Solata
-2507,Vegetarijansko
-2513,Dostop za invalide
-2513,Kosilo
-2513,Solata
-2513,Vegetarijansko
-2521,Dostop za invalide (WC)
-2521,Kosilo
-2521,Nov lokal
-2521,Vegetarijansko
-2523,Dostop za invalide
-2523,Kosilo
-2523,Nov lokal
-2525,Dostava
-2525,Kosilo
-2525,Vegetarijansko
-2525,Študentske ugodnosti
-2527,Dostop za invalide
-2527,Kosilo
-2527,Nov lokal
-2527,Solata
-2527,Vegetarijansko
-2528,Kosilo
-2528,Nov lokal
-2528,Solata
-2528,Vegetarijansko
-2528,Študentske ugodnosti
-2529,Dostop za invalide
-2529,Kosilo
-2529,Nov lokal
-2529,Solata
-2529,Vegetarijansko
-2529,Študentske ugodnosti
-2531,Kosilo
-2531,Nov lokal
-2531,Solata
-2531,Vegetarijansko
-2531,Študentske ugodnosti
-2533,Dostop za invalide (WC)
-2533,Kosilo
-2533,Nov lokal
-2533,Vegetarijansko
-2535,Pizza
-2542,Dostava
-2542,Kosilo
-2542,Nov lokal
-2542,Vegetarijansko
-2543,Dostop za invalide
-2543,Kosilo
-2543,Nov lokal
-2543,Študentske ugodnosti
-2547,Dostop za invalide
-2547,Kosilo
-2547,Vegetarijansko
-2549,Dostop za invalide
-2549,Kosilo
-2549,Vegetarijansko
-2551,Dostop za invalide
-2551,Kosilo
-2551,Vegetarijansko
-2552,Dostop za invalide (WC)
-2552,Kosilo
-2552,Nov lokal
-2552,Solata
-2552,Vegetarijansko
-2565,Dostop za invalide
-2565,Kosilo
-2565,Nov lokal
-2565,Solata
-2565,Vegetarijansko
-2569,Dostop za invalide
-2569,Kosilo
-2569,Solata
-2569,Vegetarijansko
-2569,Študentske ugodnosti
-2581,Dostop za invalide
-2581,Kosilo
-2581,Nov lokal
-2581,Vegetarijansko
-2589,Kosilo
-2589,Vegetarijansko
-2591,Dostop za invalide
-2591,Kosilo
-2591,Nov lokal
-2591,Vegetarijansko
-2594,Kosilo
-2594,Vegetarijansko
-2595,Dostava
-2595,Kosilo
-2595,Vegetarijansko
-2596,Kosilo
-2596,Nov lokal
-2596,Vegetarijansko
-2597,Kosilo
-2597,Vegetarijansko
-2599,Dostop za invalide
-2599,Kosilo
-2599,Nov lokal
-2599,Vegetarijansko
-2601,Dostop za invalide
-2601,Kosilo
-2619,Dostop za invalide
-2619,Kosilo
-2619,Vegetarijansko
-2623,Dostop za invalide
-2623,Kosilo
-2623,Nov lokal
-2623,Solata
-2624,Dostop za invalide
-2624,Kosilo
-2624,Solata
-2624,Vegetarijansko
-2633,Dostop za invalide
-2633,Kosilo
-2635,Dostop za invalide
-2635,Kosilo
-2635,Vegetarijansko
-2636,Dostop za invalide
-2636,Pizza
-2638,Dostop za invalide
-2638,Kosilo
-2638,Vegetarijansko
-2640,Dostop za invalide
-2640,Kosilo
-2640,Nov lokal
-2640,Vegetarijansko
-2641,Celiakiji prijazni obroki
-2641,Dostop za invalide (WC)
-2641,Kosilo
-2641,Nov lokal
-2641,Solata
-2641,Vegetarijansko
-2642,Kosilo
-2642,Nov lokal
-2643,Dostop za invalide
-2643,Kosilo
-2644,Kosilo
-2644,Vegetarijansko
-2648,Kosilo
-2648,Nov lokal
-2648,Vegetarijansko
-2649,Dostop za invalide
-2649,Kosilo
-2649,Vegetarijansko
-2650,Dostop za invalide
-2650,Kosilo
-2650,Nov lokal
-2650,Študentske ugodnosti
-2651,Dostop za invalide (WC)
-2651,Kosilo
-2651,Vegetarijansko
-2652,Kosilo
-2652,Vegetarijansko
-2660,Dostava
-2660,Kosilo
-2660,Vegetarijansko
-2661,Dostop za invalide
-2661,Kosilo
-2661,Vegetarijansko
-2662,Dostop za invalide (WC)
-2662,Pizza
-2664,Kosilo
-2664,Vegetarijansko
-2668,Kosilo
-2668,Vegetarijansko
-2668,Študentske ugodnosti
-2686,Dostop za invalide
-2686,Kosilo
-2686,Vegetarijansko
-2691,Dostop za invalide
-2691,Kosilo
-2698,Kosilo
-2698,Vegetarijansko
-2699,Dostava
-2699,Kosilo
-2699,Vegetarijansko
-2702,Dostop za invalide
-2702,Kosilo
-2702,Nov lokal
-2702,Vegetarijansko
-2703,Dostop za invalide
-2703,Kosilo
-2703,Solata
-2703,Vegetarijansko
-2705,Dostava
-2705,Kosilo
-2707,Dostop za invalide
-2707,Kosilo
-2707,Solata
-2707,Vegetarijansko
-2708,Dostop za invalide
-2708,Kosilo
-2708,Solata
-2708,Vegetarijansko
-2709,Dostop za invalide
-2709,Pizza
-2711,Dostop za invalide
-2711,Nov lokal
-2711,Pizza
-2711,Solata
-2714,Dostop za invalide
-2714,Kosilo
-2714,Vegetarijansko
-2721,Dostop za invalide (WC)
-2721,Kosilo
-2721,Nov lokal
-2721,Solata
-2721,Vegetarijansko
-2723,Kosilo
-2723,Nov lokal
-2723,Vegetarijansko
-2723,Študentske ugodnosti
-2724,Nov lokal
-2724,Pizza
-2724,Vegetarijansko
-2725,Kosilo
-2725,Vegetarijansko
-2726,Pizza
-2726,Vegetarijansko
-2729,Dostop za invalide
-2729,Kosilo
-2729,Nov lokal
-2729,Vegetarijansko
-2732,Dostop za invalide
-2732,Kosilo
-2732,Vegetarijansko
-2736,Dostop za invalide
-2736,Kosilo
-2736,Vegetarijansko
-2739,Dostop za invalide
-2739,Kosilo
-2748,Kosilo
-2748,Vegetarijansko
-2753,Dostop za invalide
-2753,Kosilo
-2753,Nov lokal
-2753,Solata
-2753,Vegetarijansko
-2754,Kosilo
-2754,Vegetarijansko
-2757,Dostop za invalide
-2757,Pizza
-2759,Dostop za invalide (WC)
-2759,Kosilo
-2759,Vegetarijansko
-2761,Kosilo
-2761,Vegetarijansko
-2762,Dostava
-2762,Kosilo
-2762,Vegetarijansko
-2765,Dostop za invalide (WC)
-2765,Kosilo
-2765,Solata
-2765,Vegetarijansko
-2768,Dostop za invalide
-2768,Kosilo
-2768,Vegetarijansko
-2771,Pizza
-2772,Dostava
-2772,Kosilo
-2772,Vegetarijansko
-2775,Dostava
-2775,Kosilo
-2775,Vegetarijansko
-2776,Dostop za invalide
-2776,Kosilo
-2776,Vegetarijansko
-2778,Kosilo
-2778,Vegetarijansko
-2781,Kosilo
-2781,Nov lokal
-2781,Solata
-2781,Vegetarijansko
-2784,Dostop za invalide
-2784,Kosilo
-2784,Solata
-2786,Kosilo
-2786,Nov lokal
-2786,Vegetarijansko
-2815,Dostop za invalide (WC)
-2815,Kosilo
-2815,Vegetarijansko
-2817,Kosilo
-2817,Nov lokal
-2817,Vegetarijansko
-2821,Dostop za invalide
-2821,Kosilo
-2821,Nov lokal
-2821,Vegetarijansko
-2826,Dostop za invalide (WC)
-2826,Kosilo
-2826,Nov lokal
-2826,Vegetarijansko
-2828,Kosilo
-2828,Vegetarijansko
-2829,Dostop za invalide
-2829,Kosilo
-2830,Kosilo
-2830,Nov lokal
-2830,Solata
-2830,Vegetarijansko
-2832,Nov lokal
-2832,Pizza
-2832,Vegetarijansko
-2833,Dostop za invalide
-2833,Kosilo
-2833,Nov lokal
-2833,Vegetarijansko
-2834,Kosilo
-2834,Vegetarijansko
-2839,Dostop za invalide (WC)
-2839,Kosilo
-2839,Nov lokal
-2839,Vegetarijansko
-2841,Dostop za invalide
-2841,Kosilo
-2841,Vegetarijansko
-2842,Dostava
-2842,Kosilo
-2842,Vegetarijansko
-2843,Dostop za invalide
-2843,Kosilo
-2843,Vegetarijansko
-2844,Kosilo
-2844,Vegetarijansko
-2846,Kosilo
-2846,Nov lokal
-2846,Solata
-2846,Vegetarijansko
-2846,Študentske ugodnosti
-2847,Kosilo
-2847,Nov lokal
-2847,Vegetarijansko
-2847,Študentske ugodnosti
-2849,Kosilo
-2849,Solata
-2849,Vegetarijansko
-2854,Dostop za invalide
-2854,Kosilo
-2854,Nov lokal
-2854,Solata
-2854,Vegetarijansko
-2859,Dostop za invalide
-2859,Kosilo
-2859,Nov lokal
-2863,Dostop za invalide
-2863,Kosilo
-2863,Vegetarijansko
-2866,Dostop za invalide (WC)
-2866,Kosilo
-2866,Vegetarijansko
-2868,Dostop za invalide (WC)
-2868,Kosilo
-2869,Dostop za invalide
-2869,Kosilo
-2869,Vegetarijansko
-2870,Dostop za invalide
-2870,Kosilo
-2870,Nov lokal
-2870,Vegetarijansko
-2872,Dostop za invalide
-2872,Nov lokal
-2872,Pizza
-2875,Kosilo
-2875,Vegetarijansko
-2880,Dostop za invalide
-2880,Kosilo
-2880,Nov lokal
-2880,Solata
-2880,Vegetarijansko
-2882,Kosilo
-2882,Vegetarijansko
-2884,Kosilo
-2884,Vegetarijansko
-2886,Dostop za invalide
-2886,Kosilo
-2886,Vegetarijansko
-2887,Kosilo
-2887,Vegetarijansko
-2915,Nov lokal
-2918,Nov lokal
-2919,Dostop za invalide
-2919,Kosilo
-2919,Nov lokal
-2919,Vegetarijansko
-2921,Kosilo
-2921,Vegetarijansko
-2924,Kosilo
-2924,Nov lokal
-2926,Kosilo
-2926,Nov lokal
-2927,Kosilo
-2930,Dostop za invalide
-2930,Kosilo
-2930,Vegetarijansko
-2931,Kosilo
-2931,Vegetarijansko
-2932,Dostava
-2932,Kosilo
-2932,Vegetarijansko
-2933,Dostop za invalide
-2933,Kosilo
-2933,Vegetarijansko
-2935,Pizza
-2943,Dostop za invalide (WC)
-2943,Kosilo
-2943,Vegetarijansko
-2947,Kosilo
-2947,Nov lokal
-2949,Dostop za invalide
-2949,Kosilo
-2949,Vegetarijansko
-2950,Dostop za invalide (WC)
-2950,Kosilo
-2950,Vegetarijansko
-2951,Dostop za invalide
-2951,Kosilo
-2951,Vegetarijansko
-2952,Dostop za invalide
-2952,Kosilo
-2953,Dostop za invalide
-2953,Kosilo
-2953,Študentske ugodnosti
-2955,Dostava
-2955,Kosilo
-2955,Vegetarijansko
-2956,Dostop za invalide
-2956,Nov lokal
-2956,Pizza
-2958,Kosilo
-2958,Nov lokal
-2959,Dostop za invalide (WC)
-2959,Kosilo
-2959,Solata
-2959,Vegetarijansko
-2960,Dostop za invalide
-2960,Kosilo
-2961,Dostava
-2961,Kosilo
-2968,Kosilo
-2968,Solata
-2968,Vegetarijansko
-2969,Dostava
-2969,Kosilo
-2969,Vegetarijansko
-2970,Kosilo
-2970,Solata
-2970,Vegetarijansko
-2975,Dostop za invalide
-2975,Kosilo
-2975,Nov lokal
-2975,Vegetarijansko
-2977,Dostop za invalide
-2977,Kosilo
-2977,Nov lokal
-2977,Vegetarijansko
-2982,Dostop za invalide
-2982,Kosilo
-2983,Dostop za invalide
-2983,Kosilo
-2983,Nov lokal
-2983,Solata
-2983,Vegetarijansko
-2988,Kosilo
-2988,Vegetarijansko
-2992,Kosilo
-2992,Nov lokal
-2992,Vegetarijansko
-2993,Dostop za invalide (WC)
-2993,Hitra hrana
-2993,Nov lokal
-2994,Dostop za invalide
-2994,Kosilo
-2994,Nov lokal
-2994,Vegetarijansko
-2995,Kosilo
-2995,Nov lokal
-2995,Solata
-2995,Vegetarijansko
-2996,Dostava
-2996,Kosilo
-2996,Vegetarijansko
-2997,Kosilo
-2998,Kosilo
-2998,Nov lokal
-2998,Vegetarijansko
-3000,Dostava
-3000,Kosilo
-3000,Vegetarijansko
-3001,Dostop za invalide (WC)
-3001,Kosilo
-3001,Nov lokal
-3001,Solata
-3001,Vegetarijansko
-3002,Dostop za invalide
-3002,Kosilo
-3002,Nov lokal
-3002,Vegetarijansko
-3003,Dostop za invalide (WC)
-3003,Kosilo
-3005,Dostop za invalide
-3005,Odprt ob vikendih
-3005,Pizza
+id,lastnost
+
+1011,Dostop za invalide
+
+1011,Kosilo
+
+1011,Solata
+
+1011,Vegetarijansko
+
+1013,Dostop za invalide
+
+1013,Kosilo
+
+1013,Nov lokal
+
+1013,Solata
+
+1013,Vegetarijansko
+
+1023,Dostop za invalide
+
+1023,Dostop za invalide (WC)
+
+1023,Kosilo
+
+1023,Solata
+
+1023,Vegetarijansko
+
+1023,Študentske ugodnosti
+
+1025,Dostop za invalide
+
+1025,Dostop za invalide (WC)
+
+1025,Kosilo
+
+1025,Solata
+
+1025,Vegetarijansko
+
+1025,Študentske ugodnosti
+
+1031,Dostop za invalide
+
+1031,Kosilo
+
+1031,Solata
+
+1031,Vegetarijansko
+
+1090,Dostop za invalide (WC)
+
+1090,Kosilo
+
+1090,Nov lokal
+
+1090,Vegetarijansko
+
+1091,Kosilo
+
+1091,Nov lokal
+
+1091,Solata
+
+1091,Vegetarijansko
+
+1091,Študentske ugodnosti
+
+1100,Dostop za invalide (WC)
+
+1100,Kosilo
+
+1100,Solata
+
+1100,Vegetarijansko
+
+1101,Dostop za invalide (WC)
+
+1101,Kosilo
+
+1101,Solata
+
+1101,Vegetarijansko
+
+1102,Dostop za invalide (WC)
+
+1102,Kosilo
+
+1102,Solata
+
+1102,Vegetarijansko
+
+1103,Dostop za invalide (WC)
+
+1103,Kosilo
+
+1103,Študentske ugodnosti
+
+1110,Dostop za invalide (WC)
+
+1110,Kosilo
+
+1110,Vegetarijansko
+
+1110,Študentske ugodnosti
+
+1123,Dostop za invalide
+
+1123,Kosilo
+
+1123,Solata
+
+1123,Vegetarijansko
+
+1124,Dostava
+
+1124,Kosilo
+
+1124,Vegetarijansko
+
+1130,Dostop za invalide (WC)
+
+1130,Kosilo
+
+1130,Vegetarijansko
+
+1145,Dostop za invalide (WC)
+
+1145,Kosilo
+
+1145,Solata
+
+1145,Vegetarijansko
+
+1161,Kosilo
+
+1161,Vegetarijansko
+
+1164,Dostava
+
+1164,Kosilo
+
+1164,Vegetarijansko
+
+1164,Študentske ugodnosti
+
+1165,Kosilo
+
+1165,Vegetarijansko
+
+1176,Dostop za invalide
+
+1176,Pizza
+
+1176,Solata
+
+1179,Dostop za invalide (WC)
+
+1179,Kosilo
+
+1179,Vegetarijansko
+
+1182,Dostop za invalide (WC)
+
+1182,Kosilo
+
+1182,Vegetarijansko
+
+1184,Dostop za invalide (WC)
+
+1184,Kosilo
+
+1184,Vegetarijansko
+
+1185,Dostop za invalide (WC)
+
+1185,Kosilo
+
+1185,Vegetarijansko
+
+1188,Dostop za invalide
+
+1188,Kosilo
+
+1188,Nov lokal
+
+1188,Solata
+
+1188,Vegetarijansko
+
+1188,Študentske ugodnosti
+
+1189,Dostava
+
+1189,Kosilo
+
+1189,Nov lokal
+
+1189,Vegetarijansko
+
+1190,Dostop za invalide
+
+1190,Kosilo
+
+1190,Vegetarijansko
+
+1194,Dostop za invalide (WC)
+
+1194,Kosilo
+
+1194,Solata
+
+1194,Vegetarijansko
+
+1194,Študentske ugodnosti
+
+1195,Dostop za invalide (WC)
+
+1195,Kosilo
+
+1195,Solata
+
+1195,Vegetarijansko
+
+1195,Študentske ugodnosti
+
+1197,Dostop za invalide (WC)
+
+1197,Kosilo
+
+1197,Solata
+
+1197,Vegetarijansko
+
+1197,Študentske ugodnosti
+
+1198,Dostop za invalide (WC)
+
+1198,Kosilo
+
+1198,Solata
+
+1198,Vegetarijansko
+
+1198,Študentske ugodnosti
+
+1199,Dostop za invalide (WC)
+
+1199,Kosilo
+
+1199,Solata
+
+1199,Vegetarijansko
+
+1199,Študentske ugodnosti
+
+1214,Kosilo
+
+1214,Nov lokal
+
+1214,Vegetarijansko
+
+1224,Dostop za invalide (WC)
+
+1224,Kosilo
+
+1224,Vegetarijansko
+
+1232,Kosilo
+
+1232,Vegetarijansko
+
+1234,Dostop za invalide
+
+1234,Kosilo
+
+1234,Solata
+
+1237,Kosilo
+
+1237,Nov lokal
+
+1237,Vegetarijansko
+
+1237,Študentske ugodnosti
+
+1238,Dostava
+
+1238,Kosilo
+
+1238,Nov lokal
+
+1238,Vegetarijansko
+
+1238,Študentske ugodnosti
+
+1262,Dostop za invalide
+
+1262,Kosilo
+
+1262,Vegetarijansko
+
+1265,Dostop za invalide (WC)
+
+1265,Kosilo
+
+1265,Nov lokal
+
+1265,Solata
+
+1265,Vegetarijansko
+
+1266,Dostop za invalide
+
+1266,Pizza
+
+1266,Vegetarijansko
+
+1298,Kosilo
+
+1298,Nov lokal
+
+1298,Vegetarijansko
+
+1305,Dostop za invalide
+
+1305,Kosilo
+
+1305,Vegetarijansko
+
+1314,Dostop za invalide
+
+1314,Kosilo
+
+1314,Nov lokal
+
+1314,Solata
+
+1314,Vegetarijansko
+
+1321,Dostop za invalide
+
+1321,Kosilo
+
+1321,Vegetarijansko
+
+1334,Dostop za invalide
+
+1334,Pizza
+
+1335,Pizza
+
+1336,Dostop za invalide
+
+1336,Kosilo
+
+1336,Nov lokal
+
+1336,Solata
+
+1336,Vegetarijansko
+
+1339,Kosilo
+
+1339,Vegetarijansko
+
+1341,Dostop za invalide (WC)
+
+1341,Kosilo
+
+1341,Vegetarijansko
+
+1342,Dostop za invalide (WC)
+
+1342,Kosilo
+
+1342,Vegetarijansko
+
+1346,Dostop za invalide
+
+1346,Kosilo
+
+1346,Vegetarijansko
+
+1351,Dostop za invalide
+
+1351,Kosilo
+
+1351,Nov lokal
+
+1351,Vegetarijansko
+
+1360,Dostop za invalide
+
+1360,Kosilo
+
+1360,Vegetarijansko
+
+1366,Dostop za invalide (WC)
+
+1366,Kosilo
+
+1366,Solata
+
+1366,Vegetarijansko
+
+1367,Dostop za invalide
+
+1367,Kosilo
+
+1367,Nov lokal
+
+1367,Solata
+
+1367,Vegetarijansko
+
+1369,Dostop za invalide (WC)
+
+1369,Kosilo
+
+1369,Solata
+
+1369,Vegetarijansko
+
+1369,Študentske ugodnosti
+
+1370,Dostop za invalide (WC)
+
+1370,Kosilo
+
+1370,Solata
+
+1370,Vegetarijansko
+
+1370,Študentske ugodnosti
+
+1375,Dostop za invalide
+
+1375,Kosilo
+
+1375,Vegetarijansko
+
+1377,Kosilo
+
+1377,Vegetarijansko
+
+1378,Dostop za invalide (WC)
+
+1378,Kosilo
+
+1378,Vegetarijansko
+
+1379,Dostop za invalide (WC)
+
+1379,Kosilo
+
+1379,Vegetarijansko
+
+1380,Dostop za invalide (WC)
+
+1380,Kosilo
+
+1380,Vegetarijansko
+
+1381,Dostop za invalide (WC)
+
+1381,Kosilo
+
+1381,Vegetarijansko
+
+1382,Dostop za invalide
+
+1382,Kosilo
+
+1382,Nov lokal
+
+1382,Vegetarijansko
+
+1386,Kosilo
+
+1386,Solata
+
+1386,Vegetarijansko
+
+1402,Celiakiji prijazni obroki
+
+1402,Kosilo
+
+1402,Solata
+
+1402,Vegetarijansko
+
+1403,Dostop za invalide
+
+1403,Kosilo
+
+1403,Vegetarijansko
+
+1407,Dostop za invalide (WC)
+
+1407,Kosilo
+
+1407,Solata
+
+1407,Vegetarijansko
+
+1413,Dostop za invalide (WC)
+
+1413,Kosilo
+
+1413,Vegetarijansko
+
+1415,Kosilo
+
+1415,Vegetarijansko
+
+1421,Kosilo
+
+1421,Nov lokal
+
+1421,Solata
+
+1421,Vegetarijansko
+
+1421,Študentske ugodnosti
+
+1422,Kosilo
+
+1422,Nov lokal
+
+1422,Solata
+
+1422,Vegetarijansko
+
+1422,Študentske ugodnosti
+
+1423,Dostop za invalide
+
+1423,Kosilo
+
+1423,Vegetarijansko
+
+1424,Kosilo
+
+1424,Nov lokal
+
+1424,Solata
+
+1424,Vegetarijansko
+
+1429,Dostop za invalide
+
+1429,Kosilo
+
+1429,Nov lokal
+
+1429,Vegetarijansko
+
+1432,Dostop za invalide
+
+1432,Kosilo
+
+1432,Vegetarijansko
+
+1441,Dostop za invalide
+
+1441,Pizza
+
+1441,Študentske ugodnosti
+
+1465,Dostop za invalide
+
+1465,Kosilo
+
+1465,Nov lokal
+
+1465,Solata
+
+1465,Vegetarijansko
+
+1466,Dostop za invalide
+
+1466,Kosilo
+
+1466,Solata
+
+1466,Vegetarijansko
+
+1466,Študentske ugodnosti
+
+1471,Kosilo
+
+1471,Vegetarijansko
+
+1474,Dostop za invalide (WC)
+
+1474,Kosilo
+
+1474,Nov lokal
+
+1474,Vegetarijansko
+
+1477,Dostop za invalide
+
+1477,Nov lokal
+
+1477,Pizza
+
+1478,Dostop za invalide
+
+1478,Kosilo
+
+1478,Vegetarijansko
+
+1485,Kosilo
+
+1485,Solata
+
+1485,Vegetarijansko
+
+1500,Kosilo
+
+1500,Nov lokal
+
+1500,Solata
+
+1500,Vegetarijansko
+
+1501,Dostop za invalide (WC)
+
+1501,Kosilo
+
+1501,Nov lokal
+
+1501,Solata
+
+1501,Vegetarijansko
+
+1502,Dostop za invalide (WC)
+
+1502,Kosilo
+
+1502,Nov lokal
+
+1502,Solata
+
+1502,Vegetarijansko
+
+1530,Kosilo
+
+1530,Nov lokal
+
+1530,Solata
+
+1530,Vegetarijansko
+
+1530,Študentske ugodnosti
+
+1532,Kosilo
+
+1532,Nov lokal
+
+1532,Solata
+
+1532,Vegetarijansko
+
+1532,Študentske ugodnosti
+
+1536,Dostop za invalide (WC)
+
+1536,Kosilo
+
+1536,Vegetarijansko
+
+1541,Kosilo
+
+1541,Nov lokal
+
+1541,Solata
+
+1541,Vegetarijansko
+
+1564,Dostop za invalide
+
+1564,Kosilo
+
+1564,Vegetarijansko
+
+1576,Dostop za invalide (WC)
+
+1576,Kosilo
+
+1576,Vegetarijansko
+
+1578,Kosilo
+
+1578,Vegetarijansko
+
+1583,Kosilo
+
+1583,Nov lokal
+
+1583,Solata
+
+1583,Vegetarijansko
+
+1583,Študentske ugodnosti
+
+1597,Dostop za invalide (WC)
+
+1597,Kosilo
+
+1597,Vegetarijansko
+
+1610,Kosilo
+
+1610,Vegetarijansko
+
+1610,Študentske ugodnosti
+
+1615,Dostop za invalide
+
+1615,Kosilo
+
+1615,Nov lokal
+
+1615,Vegetarijansko
+
+1615,Študentske ugodnosti
+
+1626,Dostop za invalide (WC)
+
+1626,Kosilo
+
+1626,Solata
+
+1627,Dostop za invalide (WC)
+
+1627,Kosilo
+
+1627,Solata
+
+1628,Celiakiji prijazni obroki
+
+1628,Dostop za invalide (WC)
+
+1628,Kosilo
+
+1639,Dostop za invalide
+
+1639,Kosilo
+
+1639,Nov lokal
+
+1639,Vegetarijansko
+
+1639,Študentske ugodnosti
+
+1645,Dostop za invalide
+
+1645,Kosilo
+
+1645,Vegetarijansko
+
+1668,Kosilo
+
+1668,Nov lokal
+
+1668,Vegetarijansko
+
+1673,Dostava
+
+1673,Kosilo
+
+1673,Vegetarijansko
+
+1683,Dostop za invalide
+
+1683,Kosilo
+
+1683,Vegetarijansko
+
+1711,Dostop za invalide
+
+1711,Kosilo
+
+1711,Solata
+
+1711,Vegetarijansko
+
+1716,Dostop za invalide
+
+1716,Kosilo
+
+1716,Vegetarijansko
+
+1717,Dostava
+
+1717,Kosilo
+
+1717,Vegetarijansko
+
+1718,Dostava
+
+1718,Kosilo
+
+1718,Vegetarijansko
+
+1768,Dostop za invalide (WC)
+
+1768,Kosilo
+
+1768,Nov lokal
+
+1768,Solata
+
+1768,Vegetarijansko
+
+1772,Dostop za invalide (WC)
+
+1772,Kosilo
+
+1772,Vegetarijansko
+
+1778,Dostop za invalide
+
+1778,Pizza
+
+1791,Pizza
+
+1794,Dostop za invalide
+
+1794,Kosilo
+
+1794,Vegetarijansko
+
+1798,Dostop za invalide
+
+1798,Kosilo
+
+1798,Vegetarijansko
+
+1804,Dostava
+
+1804,Kosilo
+
+1804,Vegetarijansko
+
+1817,Dostop za invalide
+
+1817,Kosilo
+
+1817,Nov lokal
+
+1817,Vegetarijansko
+
+1823,Dostop za invalide (WC)
+
+1823,Hitra hrana
+
+1823,Študentske ugodnosti
+
+1827,Celiakiji prijazni obroki
+
+1827,Dostop za invalide
+
+1827,Pizza
+
+1827,Vegetarijansko
+
+1834,Dostop za invalide (WC)
+
+1834,Kosilo
+
+1834,Vegetarijansko
+
+1835,Dostop za invalide (WC)
+
+1835,Kosilo
+
+1835,Vegetarijansko
+
+1838,Dostop za invalide
+
+1838,Kosilo
+
+1838,Vegetarijansko
+
+1847,Dostop za invalide (WC)
+
+1847,Kosilo
+
+1847,Solata
+
+1847,Vegetarijansko
+
+1849,Dostop za invalide
+
+1849,Kosilo
+
+1849,Vegetarijansko
+
+1860,Dostop za invalide
+
+1860,Kosilo
+
+1860,Vegetarijansko
+
+1861,Dostop za invalide
+
+1861,Kosilo
+
+1861,Vegetarijansko
+
+1865,Dostop za invalide
+
+1865,Kosilo
+
+1865,Nov lokal
+
+1865,Solata
+
+1865,Vegetarijansko
+
+1910,Dostop za invalide
+
+1910,Pizza
+
+1911,Dostop za invalide
+
+1911,Kosilo
+
+1911,Vegetarijansko
+
+1911,Študentske ugodnosti
+
+1925,Dostop za invalide
+
+1925,Pizza
+
+1925,Vegetarijansko
+
+1983,Pizza
+
+1984,Nov lokal
+
+1984,Pizza
+
+1988,Dostop za invalide
+
+1988,Kosilo
+
+1988,Vegetarijansko
+
+1994,Dostop za invalide
+
+1994,Kosilo
+
+1994,Nov lokal
+
+1994,Solata
+
+1999,Dostop za invalide
+
+1999,Kosilo
+
+1999,Solata
+
+1999,Vegetarijansko
+
+2011,Dostava
+
+2011,Kosilo
+
+2011,Vegetarijansko
+
+2023,Dostop za invalide (WC)
+
+2023,Kosilo
+
+2023,Nov lokal
+
+2023,Vegetarijansko
+
+2040,Dostop za invalide
+
+2040,Kosilo
+
+2040,Vegetarijansko
+
+2049,Dostop za invalide
+
+2049,Kosilo
+
+2049,Vegetarijansko
+
+2085,Dostop za invalide
+
+2085,Kosilo
+
+2085,Vegetarijansko
+
+2092,Pizza
+
+2097,Dostop za invalide
+
+2097,Kosilo
+
+2097,Solata
+
+2097,Vegetarijansko
+
+2098,Dostop za invalide
+
+2098,Hitra hrana
+
+2098,Vegetarijansko
+
+2102,Dostop za invalide (WC)
+
+2102,Kosilo
+
+2102,Nov lokal
+
+2102,Vegetarijansko
+
+2103,Dostop za invalide (WC)
+
+2103,Kosilo
+
+2103,Nov lokal
+
+2103,Vegetarijansko
+
+2111,Kosilo
+
+2111,Nov lokal
+
+2111,Solata
+
+2111,Vegetarijansko
+
+2115,Kosilo
+
+2115,Solata
+
+2115,Vegetarijansko
+
+2116,Dostava
+
+2116,Kosilo
+
+2116,Vegetarijansko
+
+2117,Dostava
+
+2117,Kosilo
+
+2117,Vegetarijansko
+
+2117,Študentske ugodnosti
+
+2131,Dostop za invalide
+
+2131,Kosilo
+
+2131,Vegetarijansko
+
+2133,Dostop za invalide
+
+2133,Kosilo
+
+2133,Nov lokal
+
+2133,Vegetarijansko
+
+2133,Študentske ugodnosti
+
+2145,Dostop za invalide
+
+2145,Pizza
+
+2147,Kosilo
+
+2147,Vegetarijansko
+
+2152,Dostop za invalide
+
+2152,Kosilo
+
+2152,Nov lokal
+
+2152,Solata
+
+2152,Vegetarijansko
+
+2161,Dostop za invalide (WC)
+
+2161,Kosilo
+
+2161,Solata
+
+2161,Vegetarijansko
+
+2161,Študentske ugodnosti
+
+2164,Dostop za invalide
+
+2164,Kosilo
+
+2164,Vegetarijansko
+
+2164,Študentske ugodnosti
+
+2165,Pizza
+
+2165,Vegetarijansko
+
+2180,Dostop za invalide (WC)
+
+2180,Kosilo
+
+2180,Nov lokal
+
+2180,Solata
+
+2180,Vegetarijansko
+
+2185,Dostop za invalide
+
+2185,Kosilo
+
+2185,Vegetarijansko
+
+2187,Kosilo
+
+2187,Nov lokal
+
+2187,Solata
+
+2187,Vegetarijansko
+
+2187,Študentske ugodnosti
+
+2195,Dostop za invalide
+
+2195,Kosilo
+
+2195,Vegetarijansko
+
+2203,Dostop za invalide
+
+2203,Kosilo
+
+2203,Vegetarijansko
+
+2203,Študentske ugodnosti
+
+2204,Kosilo
+
+2204,Solata
+
+2204,Vegetarijansko
+
+2205,Dostava
+
+2205,Kosilo
+
+2205,Vegetarijansko
+
+2213,Dostop za invalide
+
+2213,Kosilo
+
+2213,Nov lokal
+
+2213,Vegetarijansko
+
+2213,Študentske ugodnosti
+
+2229,Kosilo
+
+2229,Nov lokal
+
+2229,Solata
+
+2229,Vegetarijansko
+
+2234,Kosilo
+
+2234,Nov lokal
+
+2243,Dostop za invalide
+
+2243,Kosilo
+
+2243,Vegetarijansko
+
+2243,Študentske ugodnosti
+
+2247,Kosilo
+
+2247,Vegetarijansko
+
+2248,Dostop za invalide (WC)
+
+2248,Kosilo
+
+2248,Nov lokal
+
+2248,Vegetarijansko
+
+2249,Dostop za invalide
+
+2249,Kosilo
+
+2249,Vegetarijansko
+
+2252,Kosilo
+
+2252,Vegetarijansko
+
+2253,Dostop za invalide (WC)
+
+2253,Kosilo
+
+2253,Vegetarijansko
+
+2254,Dostava
+
+2254,Kosilo
+
+2254,Vegetarijansko
+
+2256,Kosilo
+
+2256,Solata
+
+2256,Vegetarijansko
+
+2263,Dostop za invalide (WC)
+
+2263,Kosilo
+
+2263,Nov lokal
+
+2263,Solata
+
+2263,Vegetarijansko
+
+2264,Dostop za invalide
+
+2264,Kosilo
+
+2264,Vegetarijansko
+
+2265,Dostava
+
+2265,Kosilo
+
+2265,Vegetarijansko
+
+2270,Dostop za invalide (WC)
+
+2270,Kosilo
+
+2270,Vegetarijansko
+
+2271,Dostop za invalide (WC)
+
+2271,Kosilo
+
+2271,Vegetarijansko
+
+2275,Dostop za invalide
+
+2275,Kosilo
+
+2275,Vegetarijansko
+
+2278,Dostop za invalide (WC)
+
+2278,Kosilo
+
+2278,Nov lokal
+
+2278,Solata
+
+2278,Vegetarijansko
+
+2284,Dostop za invalide
+
+2284,Kosilo
+
+2284,Solata
+
+2284,Vegetarijansko
+
+2286,Kosilo
+
+2286,Vegetarijansko
+
+2302,Dostop za invalide
+
+2302,Hitra hrana
+
+2302,Nov lokal
+
+2308,Dostop za invalide (WC)
+
+2308,Kosilo
+
+2308,Vegetarijansko
+
+2311,Dostop za invalide
+
+2311,Kosilo
+
+2311,Vegetarijansko
+
+2325,Dostop za invalide
+
+2325,Kosilo
+
+2325,Vegetarijansko
+
+2326,Kosilo
+
+2326,Vegetarijansko
+
+2327,Dostop za invalide (WC)
+
+2327,Kosilo
+
+2327,Vegetarijansko
+
+2329,Kosilo
+
+2329,Vegetarijansko
+
+2330,Dostop za invalide
+
+2330,Kosilo
+
+2330,Vegetarijansko
+
+2331,Dostop za invalide
+
+2331,Kosilo
+
+2331,Vegetarijansko
+
+2334,Dostop za invalide
+
+2334,Kosilo
+
+2336,Dostop za invalide (WC)
+
+2336,Kosilo
+
+2336,Vegetarijansko
+
+2337,Kosilo
+
+2337,Vegetarijansko
+
+2343,Dostop za invalide (WC)
+
+2343,Kosilo
+
+2343,Solata
+
+2343,Vegetarijansko
+
+2346,Dostava
+
+2346,Kosilo
+
+2346,Nov lokal
+
+2346,Študentske ugodnosti
+
+2347,Dostop za invalide
+
+2347,Kosilo
+
+2347,Nov lokal
+
+2347,Študentske ugodnosti
+
+2358,Dostop za invalide
+
+2358,Kosilo
+
+2358,Vegetarijansko
+
+2358,Študentske ugodnosti
+
+2359,Dostop za invalide
+
+2359,Kosilo
+
+2359,Vegetarijansko
+
+2359,Študentske ugodnosti
+
+2360,Dostop za invalide
+
+2360,Pizza
+
+2360,Solata
+
+2366,Dostop za invalide (WC)
+
+2366,Kosilo
+
+2366,Solata
+
+2366,Vegetarijansko
+
+2366,Študentske ugodnosti
+
+2367,Dostop za invalide (WC)
+
+2367,Kosilo
+
+2367,Solata
+
+2367,Vegetarijansko
+
+2367,Študentske ugodnosti
+
+2375,Pizza
+
+2375,Študentske ugodnosti
+
+2389,Dostop za invalide
+
+2389,Kosilo
+
+2389,Vegetarijansko
+
+2391,Kosilo
+
+2391,Vegetarijansko
+
+2396,Kosilo
+
+2396,Solata
+
+2401,Dostop za invalide
+
+2401,Kosilo
+
+2401,Solata
+
+2401,Vegetarijansko
+
+2405,Dostop za invalide
+
+2405,Kosilo
+
+2405,Vegetarijansko
+
+2430,Kosilo
+
+2430,Vegetarijansko
+
+2432,Dostop za invalide
+
+2432,Kosilo
+
+2432,Solata
+
+2446,Dostop za invalide
+
+2446,Kosilo
+
+2446,Vegetarijansko
+
+2471,Dostop za invalide (WC)
+
+2471,Kosilo
+
+2471,Vegetarijansko
+
+2475,Dostop za invalide (WC)
+
+2475,Kosilo
+
+2475,Solata
+
+2475,Vegetarijansko
+
+2478,Dostop za invalide
+
+2478,Kosilo
+
+2478,Solata
+
+2478,Vegetarijansko
+
+2479,Dostop za invalide (WC)
+
+2479,Pizza
+
+2480,Dostop za invalide (WC)
+
+2480,Kosilo
+
+2480,Vegetarijansko
+
+2487,Dostop za invalide (WC)
+
+2487,Kosilo
+
+2487,Vegetarijansko
+
+2488,Kosilo
+
+2488,Solata
+
+2488,Vegetarijansko
+
+2498,Dostop za invalide
+
+2498,Kosilo
+
+2501,Dostop za invalide (WC)
+
+2501,Kosilo
+
+2501,Vegetarijansko
+
+2504,Dostop za invalide
+
+2504,Kosilo
+
+2504,Solata
+
+2504,Vegetarijansko
+
+2504,Študentske ugodnosti
+
+2505,Dostava
+
+2505,Kosilo
+
+2505,Vegetarijansko
+
+2505,Študentske ugodnosti
+
+2507,Kosilo
+
+2507,Solata
+
+2507,Vegetarijansko
+
+2513,Dostop za invalide
+
+2513,Kosilo
+
+2513,Solata
+
+2513,Vegetarijansko
+
+2521,Dostop za invalide (WC)
+
+2521,Kosilo
+
+2521,Nov lokal
+
+2521,Vegetarijansko
+
+2523,Dostop za invalide
+
+2523,Kosilo
+
+2523,Nov lokal
+
+2525,Dostava
+
+2525,Kosilo
+
+2525,Vegetarijansko
+
+2525,Študentske ugodnosti
+
+2527,Dostop za invalide
+
+2527,Kosilo
+
+2527,Nov lokal
+
+2527,Solata
+
+2527,Vegetarijansko
+
+2528,Kosilo
+
+2528,Nov lokal
+
+2528,Solata
+
+2528,Vegetarijansko
+
+2528,Študentske ugodnosti
+
+2529,Dostop za invalide
+
+2529,Kosilo
+
+2529,Nov lokal
+
+2529,Solata
+
+2529,Vegetarijansko
+
+2529,Študentske ugodnosti
+
+2531,Kosilo
+
+2531,Nov lokal
+
+2531,Solata
+
+2531,Vegetarijansko
+
+2531,Študentske ugodnosti
+
+2533,Dostop za invalide (WC)
+
+2533,Kosilo
+
+2533,Nov lokal
+
+2533,Vegetarijansko
+
+2535,Pizza
+
+2542,Dostava
+
+2542,Kosilo
+
+2542,Nov lokal
+
+2542,Vegetarijansko
+
+2543,Dostop za invalide
+
+2543,Kosilo
+
+2543,Nov lokal
+
+2543,Študentske ugodnosti
+
+2547,Dostop za invalide
+
+2547,Kosilo
+
+2547,Vegetarijansko
+
+2549,Dostop za invalide
+
+2549,Kosilo
+
+2549,Vegetarijansko
+
+2551,Dostop za invalide
+
+2551,Kosilo
+
+2551,Vegetarijansko
+
+2552,Dostop za invalide (WC)
+
+2552,Kosilo
+
+2552,Nov lokal
+
+2552,Solata
+
+2552,Vegetarijansko
+
+2565,Dostop za invalide
+
+2565,Kosilo
+
+2565,Nov lokal
+
+2565,Solata
+
+2565,Vegetarijansko
+
+2569,Dostop za invalide
+
+2569,Kosilo
+
+2569,Solata
+
+2569,Vegetarijansko
+
+2569,Študentske ugodnosti
+
+2581,Dostop za invalide
+
+2581,Kosilo
+
+2581,Nov lokal
+
+2581,Vegetarijansko
+
+2589,Kosilo
+
+2589,Vegetarijansko
+
+2591,Dostop za invalide
+
+2591,Kosilo
+
+2591,Nov lokal
+
+2591,Vegetarijansko
+
+2594,Kosilo
+
+2594,Vegetarijansko
+
+2595,Dostava
+
+2595,Kosilo
+
+2595,Vegetarijansko
+
+2596,Kosilo
+
+2596,Nov lokal
+
+2596,Vegetarijansko
+
+2597,Kosilo
+
+2597,Vegetarijansko
+
+2599,Dostop za invalide
+
+2599,Kosilo
+
+2599,Nov lokal
+
+2599,Vegetarijansko
+
+2601,Dostop za invalide
+
+2601,Kosilo
+
+2619,Dostop za invalide
+
+2619,Kosilo
+
+2619,Vegetarijansko
+
+2623,Dostop za invalide
+
+2623,Kosilo
+
+2623,Nov lokal
+
+2623,Solata
+
+2624,Dostop za invalide
+
+2624,Kosilo
+
+2624,Solata
+
+2624,Vegetarijansko
+
+2633,Dostop za invalide
+
+2633,Kosilo
+
+2635,Dostop za invalide
+
+2635,Kosilo
+
+2635,Vegetarijansko
+
+2636,Dostop za invalide
+
+2636,Pizza
+
+2638,Dostop za invalide
+
+2638,Kosilo
+
+2638,Vegetarijansko
+
+2640,Dostop za invalide
+
+2640,Kosilo
+
+2640,Nov lokal
+
+2640,Vegetarijansko
+
+2641,Celiakiji prijazni obroki
+
+2641,Dostop za invalide (WC)
+
+2641,Kosilo
+
+2641,Nov lokal
+
+2641,Solata
+
+2641,Vegetarijansko
+
+2642,Kosilo
+
+2642,Nov lokal
+
+2643,Dostop za invalide
+
+2643,Kosilo
+
+2644,Kosilo
+
+2644,Vegetarijansko
+
+2648,Kosilo
+
+2648,Nov lokal
+
+2648,Vegetarijansko
+
+2649,Dostop za invalide
+
+2649,Kosilo
+
+2649,Vegetarijansko
+
+2650,Dostop za invalide
+
+2650,Kosilo
+
+2650,Nov lokal
+
+2650,Študentske ugodnosti
+
+2651,Dostop za invalide (WC)
+
+2651,Kosilo
+
+2651,Vegetarijansko
+
+2652,Kosilo
+
+2652,Vegetarijansko
+
+2660,Dostava
+
+2660,Kosilo
+
+2660,Vegetarijansko
+
+2661,Dostop za invalide
+
+2661,Kosilo
+
+2661,Vegetarijansko
+
+2662,Dostop za invalide (WC)
+
+2662,Pizza
+
+2664,Kosilo
+
+2664,Vegetarijansko
+
+2668,Kosilo
+
+2668,Vegetarijansko
+
+2668,Študentske ugodnosti
+
+2686,Dostop za invalide
+
+2686,Kosilo
+
+2686,Vegetarijansko
+
+2691,Dostop za invalide
+
+2691,Kosilo
+
+2698,Kosilo
+
+2698,Vegetarijansko
+
+2699,Dostava
+
+2699,Kosilo
+
+2699,Vegetarijansko
+
+2702,Dostop za invalide
+
+2702,Kosilo
+
+2702,Nov lokal
+
+2702,Vegetarijansko
+
+2703,Dostop za invalide
+
+2703,Kosilo
+
+2703,Solata
+
+2703,Vegetarijansko
+
+2705,Dostava
+
+2705,Kosilo
+
+2707,Dostop za invalide
+
+2707,Kosilo
+
+2707,Solata
+
+2707,Vegetarijansko
+
+2708,Dostop za invalide
+
+2708,Kosilo
+
+2708,Solata
+
+2708,Vegetarijansko
+
+2709,Dostop za invalide
+
+2709,Pizza
+
+2711,Dostop za invalide
+
+2711,Nov lokal
+
+2711,Pizza
+
+2711,Solata
+
+2714,Dostop za invalide
+
+2714,Kosilo
+
+2714,Vegetarijansko
+
+2721,Dostop za invalide (WC)
+
+2721,Kosilo
+
+2721,Nov lokal
+
+2721,Solata
+
+2721,Vegetarijansko
+
+2723,Kosilo
+
+2723,Nov lokal
+
+2723,Vegetarijansko
+
+2723,Študentske ugodnosti
+
+2724,Nov lokal
+
+2724,Pizza
+
+2724,Vegetarijansko
+
+2725,Kosilo
+
+2725,Vegetarijansko
+
+2726,Pizza
+
+2726,Vegetarijansko
+
+2729,Dostop za invalide
+
+2729,Kosilo
+
+2729,Nov lokal
+
+2729,Vegetarijansko
+
+2732,Dostop za invalide
+
+2732,Kosilo
+
+2732,Vegetarijansko
+
+2736,Dostop za invalide
+
+2736,Kosilo
+
+2736,Vegetarijansko
+
+2739,Dostop za invalide
+
+2739,Kosilo
+
+2748,Kosilo
+
+2748,Vegetarijansko
+
+2753,Dostop za invalide
+
+2753,Kosilo
+
+2753,Nov lokal
+
+2753,Solata
+
+2753,Vegetarijansko
+
+2754,Kosilo
+
+2754,Vegetarijansko
+
+2757,Dostop za invalide
+
+2757,Pizza
+
+2759,Dostop za invalide (WC)
+
+2759,Kosilo
+
+2759,Vegetarijansko
+
+2761,Kosilo
+
+2761,Vegetarijansko
+
+2762,Dostava
+
+2762,Kosilo
+
+2762,Vegetarijansko
+
+2765,Dostop za invalide (WC)
+
+2765,Kosilo
+
+2765,Solata
+
+2765,Vegetarijansko
+
+2768,Dostop za invalide
+
+2768,Kosilo
+
+2768,Vegetarijansko
+
+2771,Pizza
+
+2772,Dostava
+
+2772,Kosilo
+
+2772,Vegetarijansko
+
+2775,Dostava
+
+2775,Kosilo
+
+2775,Vegetarijansko
+
+2776,Dostop za invalide
+
+2776,Kosilo
+
+2776,Vegetarijansko
+
+2778,Kosilo
+
+2778,Vegetarijansko
+
+2781,Kosilo
+
+2781,Nov lokal
+
+2781,Solata
+
+2781,Vegetarijansko
+
+2784,Dostop za invalide
+
+2784,Kosilo
+
+2784,Solata
+
+2786,Kosilo
+
+2786,Nov lokal
+
+2786,Vegetarijansko
+
+2815,Dostop za invalide (WC)
+
+2815,Kosilo
+
+2815,Vegetarijansko
+
+2817,Kosilo
+
+2817,Nov lokal
+
+2817,Vegetarijansko
+
+2821,Dostop za invalide
+
+2821,Kosilo
+
+2821,Nov lokal
+
+2821,Vegetarijansko
+
+2826,Dostop za invalide (WC)
+
+2826,Kosilo
+
+2826,Nov lokal
+
+2826,Vegetarijansko
+
+2828,Kosilo
+
+2828,Vegetarijansko
+
+2829,Dostop za invalide
+
+2829,Kosilo
+
+2830,Kosilo
+
+2830,Nov lokal
+
+2830,Solata
+
+2830,Vegetarijansko
+
+2832,Nov lokal
+
+2832,Pizza
+
+2832,Vegetarijansko
+
+2833,Dostop za invalide
+
+2833,Kosilo
+
+2833,Nov lokal
+
+2833,Vegetarijansko
+
+2834,Kosilo
+
+2834,Vegetarijansko
+
+2839,Dostop za invalide (WC)
+
+2839,Kosilo
+
+2839,Nov lokal
+
+2839,Vegetarijansko
+
+2841,Dostop za invalide
+
+2841,Kosilo
+
+2841,Vegetarijansko
+
+2842,Dostava
+
+2842,Kosilo
+
+2842,Vegetarijansko
+
+2843,Dostop za invalide
+
+2843,Kosilo
+
+2843,Vegetarijansko
+
+2844,Kosilo
+
+2844,Vegetarijansko
+
+2846,Kosilo
+
+2846,Nov lokal
+
+2846,Solata
+
+2846,Vegetarijansko
+
+2846,Študentske ugodnosti
+
+2847,Kosilo
+
+2847,Nov lokal
+
+2847,Vegetarijansko
+
+2847,Študentske ugodnosti
+
+2849,Kosilo
+
+2849,Solata
+
+2849,Vegetarijansko
+
+2854,Dostop za invalide
+
+2854,Kosilo
+
+2854,Nov lokal
+
+2854,Solata
+
+2854,Vegetarijansko
+
+2859,Dostop za invalide
+
+2859,Kosilo
+
+2859,Nov lokal
+
+2863,Dostop za invalide
+
+2863,Kosilo
+
+2863,Vegetarijansko
+
+2866,Dostop za invalide (WC)
+
+2866,Kosilo
+
+2866,Vegetarijansko
+
+2868,Dostop za invalide (WC)
+
+2868,Kosilo
+
+2869,Dostop za invalide
+
+2869,Kosilo
+
+2869,Vegetarijansko
+
+2870,Dostop za invalide
+
+2870,Kosilo
+
+2870,Nov lokal
+
+2870,Vegetarijansko
+
+2872,Dostop za invalide
+
+2872,Nov lokal
+
+2872,Pizza
+
+2875,Kosilo
+
+2875,Vegetarijansko
+
+2880,Dostop za invalide
+
+2880,Kosilo
+
+2880,Nov lokal
+
+2880,Solata
+
+2880,Vegetarijansko
+
+2882,Kosilo
+
+2882,Vegetarijansko
+
+2884,Kosilo
+
+2884,Vegetarijansko
+
+2886,Dostop za invalide
+
+2886,Kosilo
+
+2886,Vegetarijansko
+
+2887,Kosilo
+
+2887,Vegetarijansko
+
+2915,Nov lokal
+
+2918,Nov lokal
+
+2919,Dostop za invalide
+
+2919,Kosilo
+
+2919,Nov lokal
+
+2919,Vegetarijansko
+
+2921,Kosilo
+
+2921,Vegetarijansko
+
+2924,Kosilo
+
+2924,Nov lokal
+
+2926,Kosilo
+
+2926,Nov lokal
+
+2927,Kosilo
+
+2930,Dostop za invalide
+
+2930,Kosilo
+
+2930,Vegetarijansko
+
+2931,Kosilo
+
+2931,Vegetarijansko
+
+2932,Dostava
+
+2932,Kosilo
+
+2932,Vegetarijansko
+
+2933,Dostop za invalide
+
+2933,Kosilo
+
+2933,Vegetarijansko
+
+2935,Pizza
+
+2943,Dostop za invalide (WC)
+
+2943,Kosilo
+
+2943,Vegetarijansko
+
+2947,Kosilo
+
+2947,Nov lokal
+
+2949,Dostop za invalide
+
+2949,Kosilo
+
+2949,Vegetarijansko
+
+2950,Dostop za invalide (WC)
+
+2950,Kosilo
+
+2950,Vegetarijansko
+
+2951,Dostop za invalide
+
+2951,Kosilo
+
+2951,Vegetarijansko
+
+2952,Dostop za invalide
+
+2952,Kosilo
+
+2953,Dostop za invalide
+
+2953,Kosilo
+
+2953,Študentske ugodnosti
+
+2955,Dostava
+
+2955,Kosilo
+
+2955,Vegetarijansko
+
+2956,Dostop za invalide
+
+2956,Nov lokal
+
+2956,Pizza
+
+2958,Kosilo
+
+2958,Nov lokal
+
+2959,Dostop za invalide (WC)
+
+2959,Kosilo
+
+2959,Solata
+
+2959,Vegetarijansko
+
+2960,Dostop za invalide
+
+2960,Kosilo
+
+2961,Dostava
+
+2961,Kosilo
+
+2968,Kosilo
+
+2968,Solata
+
+2968,Vegetarijansko
+
+2969,Dostava
+
+2969,Kosilo
+
+2969,Vegetarijansko
+
+2970,Kosilo
+
+2970,Solata
+
+2970,Vegetarijansko
+
+2975,Dostop za invalide
+
+2975,Kosilo
+
+2975,Nov lokal
+
+2975,Vegetarijansko
+
+2977,Dostop za invalide
+
+2977,Kosilo
+
+2977,Nov lokal
+
+2977,Vegetarijansko
+
+2982,Dostop za invalide
+
+2982,Kosilo
+
+2983,Dostop za invalide
+
+2983,Kosilo
+
+2983,Nov lokal
+
+2983,Solata
+
+2983,Vegetarijansko
+
+2988,Kosilo
+
+2988,Vegetarijansko
+
+2992,Kosilo
+
+2992,Nov lokal
+
+2992,Vegetarijansko
+
+2993,Dostop za invalide (WC)
+
+2993,Hitra hrana
+
+2993,Nov lokal
+
+2994,Dostop za invalide
+
+2994,Kosilo
+
+2994,Nov lokal
+
+2994,Vegetarijansko
+
+2995,Kosilo
+
+2995,Nov lokal
+
+2995,Solata
+
+2995,Vegetarijansko
+
+2996,Dostava
+
+2996,Kosilo
+
+2996,Vegetarijansko
+
+2997,Kosilo
+
+2998,Kosilo
+
+2998,Nov lokal
+
+2998,Vegetarijansko
+
+3000,Dostava
+
+3000,Kosilo
+
+3000,Vegetarijansko
+
+3001,Dostop za invalide (WC)
+
+3001,Kosilo
+
+3001,Nov lokal
+
+3001,Solata
+
+3001,Vegetarijansko
+
+3002,Dostop za invalide
+
+3002,Kosilo
+
+3002,Nov lokal
+
+3002,Vegetarijansko
+
+3003,Dostop za invalide (WC)
+
+3003,Kosilo
+
+3005,Dostop za invalide
+
+3005,Odprt ob vikendih
+
+3005,Pizza
+
