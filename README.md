@@ -12,9 +12,10 @@ Za vsako restavracijo bom zajela:
 * lastnosti restavracije (dostopnost za invalide, ponuja vegetarijanske obroke, kosila, ima dostavo ...)
 
 Delovne hipoteze:
-* Ali so katere lastnosti restavracije povezane s ceno obroka?
-* Ali ima v Ljubljani večji delež restavracij več lastnosti, kot drugod po Sloveniji?
-* Ali je lokacija povezana s ceno obroka?
+* Več dodatnih lastnosti, kot ima restavracija, dražji je obrok.
+* Restavracije, ki ponujajo vegetarianske ali celiakiji prijazne obroke, so v povprečju dražje od tistih, ki tega ne ponujajo.
+* V Ljubljani restavracije v povprečju ponujajo več dodatnih lastnosti, kot drugje po Sloveniji.
+* V turistično bolj obiskanih krajih je cena obroka v povprečju višja.
 
 
 _____________________________________________________________
